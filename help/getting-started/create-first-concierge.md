@@ -32,4 +32,4 @@ Scopri come configurare il primo Brand Concierge di Adobe per aiutare i clienti 
 * Come collegare le origini di contenuto per ottenere risposte accurate
 * Come personalizzare la voce del brand e testare l’esperienza
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476529/?captions=ita&learn=on&enablevpops)
