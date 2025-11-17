@@ -1,9 +1,9 @@
 ---
 title: Panoramica di Adobe Brand Concierge
 description: Scopri Adobe Brand Concierge, una soluzione di individuazione e coinvolgimento dei prodotti basata sull’intelligenza artificiale per proprietà digitali di proprietà del brand.
-source-git-commit: 4973820b87be15ff46ac053dbed79146e7043676
+source-git-commit: ee6b768579e620044ca92f5e8b9d06f39a60583d
 workflow-type: tm+mt
-source-wordcount: '2953'
+source-wordcount: '2952'
 ht-degree: 1%
 
 ---
@@ -179,7 +179,7 @@ Brand Concierge offre alle aziende funzionalità avanzate di intelligenza artifi
 * Controlla i requisiti di voce, tono e conformità del brand.
 * Tieni traccia delle prestazioni con la dashboard di Customer Journey Analytics.
 * Trasferimento senza soluzione di continuità dall&#39;intelligenza artificiale all&#39;uomo, inclusa la pianificazione delle riunioni.
-* Integrare con Adobe Experience Platform, Commerce e Experience Manager.
+* Integrare con Adobe Experience Platform e Experience Manager.
 
 ## Casi d’uso
 
