@@ -1,10 +1,12 @@
 ---
-title: Riunioni in Adobe Brand Concierge
+title: Configurazione delle riunioni
 description: Scopri come impostare e configurare le riunioni in Adobe Brand Concierge.
-source-git-commit: 3994c9557bfed43aef9584324fe6be0f70b974dc
+level: Beginner
+role: User,Admin
+source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
 workflow-type: tm+mt
-source-wordcount: '328'
-ht-degree: 1%
+source-wordcount: '338'
+ht-degree: 2%
 
 ---
 
@@ -24,31 +26,41 @@ Connettersi all&#39;account di Outlook o Google e determinare varie impostazioni
 
    ![Home page Adobe Experience Platform](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
-1. In _Configurazione_, fare clic su **[!UICONTROL Impostazioni rappresentative]**. Nella scheda _[!UICONTROL Configurazione calendario]_, scegli il calendario desiderato. In questo esempio è in corso la selezione di **[!UICONTROL Outlook]**.
+1. In _Configurazione_, fare clic su **[!UICONTROL Impostazioni rappresentative]**.
 
    ![Pagina configurazione calendario](assets/meetings-connect-2.png)
+
+   Nella scheda _[!UICONTROL Configurazione calendario]_, scegli il calendario desiderato. In questo esempio si sta selezionando **[!UICONTROL Outlook]**.
 
 1. Scegli un account già connesso o aggiungine uno nuovo.
 
    ![Scegli un account modale in Microsoft](assets/meetings-connect-3.png)
 
-1. Una volta completata la connessione, impostare il contenuto e-mail desiderato che verrà inviato al destinatario quando prenoterà una riunione con l&#39;utente. È inoltre possibile includere un collegamento alla riunione di Microsoft Teams (facoltativo). Al termine, fai clic su **[!UICONTROL Salva]**.
+1. Al termine della connessione, specifica il contenuto e-mail desiderato.
+
+   Questo è il contenuto che viene inviato al destinatario quando prenota una riunione con te. È inoltre possibile includere un collegamento alla riunione di Microsoft Teams (facoltativo).
 
    ![Dettagli e-mail di conferma riunione](assets/meetings-connect-4.png)
 
+1. Fai clic su **[!UICONTROL Salva]**.
+
 ### Imposta disponibilità calendario {#availability}
 
-1. Selezionare la scheda **[!UICONTROL Disponibilità calendario]**.
+1. Fare clic sulla scheda **[!UICONTROL Disponibilità calendario]**.
 
    ![Pagina disponibilità calendario vuota](assets/meetings-availability-1.png)
 
-1. Scegli le impostazioni desiderate. In questo esempio, stiamo scegliendo _[!UICONTROL Durata riunione]_ di 30 minuti con un _[!UICONTROL Tempo buffer]_ di 15 minuti e un _[!UICONTROL Avviso minimo]_ di 2 ore. La nostra disponibilità è impostata su Lunedì fino a Venerdì, 8.00 - 17.00 PST, con una pausa di un&#39;ora a mezzogiorno. Al termine, fai clic su **[!UICONTROL Salva]**.
+1. Scegli le impostazioni desiderate.
 
->[!NOTE]
->
->Per aggiungere altre opzioni di tempo, fai clic sull&#39;icona del segno più (![icona del segno più](assets/icon-plus-sign.png)).
+   In questo esempio si sceglie **[!UICONTROL Durata riunione]** di 30 minuti con un **[!UICONTROL Tempo buffer]** di 15 minuti e un **[!UICONTROL Avviso minimo]** di 2 ore. La disponibilità è impostata dal lunedì al venerdì, 8.00 - 17.00 PST, con una pausa di un&#39;ora a mezzogiorno.
 
-![Pagina disponibilità calendario con tutti i campi compilati](assets/meetings-availability-2.png)
+   >[!NOTE]
+   >
+   >Per aggiungere altre opzioni di tempo, fare clic sul segno più (![icona segno più](assets/icon-plus-sign.png)).
+
+   ![Pagina disponibilità calendario con tutti i campi compilati](assets/meetings-availability-2.png)
+
+1. Fai clic su **[!UICONTROL Salva]**.
 
 ### Gestione dei rappresentanti {#representative}
 
@@ -58,16 +70,16 @@ Connettersi all&#39;account di Outlook o Google e determinare varie impostazioni
 
 ## Attività {#activities}
 
-### Prenotazioni riunioni {#bookings}
+Fai clic su **[!UICONTROL Prenotazioni riunioni]** per esaminare le riunioni prenotate, vedere quali informazioni sono state acquisite, scoprire quando è stata pianificata la riunione e altro ancora.
 
-Rivedi le riunioni prenotate, quali informazioni sono state acquisite, quando è stata pianificata la riunione e altro ancora.
+### Pagina riunione {#bookings}
 
 ![Pagina prenotazioni riunioni](assets/meetings-bookings-1.png){width="800" zoomable="yes"}
 
 ## Analytics {#analytics}
 
-### Prestazione riunione {#performance}
+Fai clic su **[!UICONTROL Prestazioni riunione]** per esaminare diverse categorie di analisi, tra cui il numero di visitatori che hanno richiesto riunioni e il numero di visitatori che non hanno partecipato. Potete vedere qual è stata la tendenza delle riunioni, chi sono i rappresentanti che hanno preso le riunioni, e molto altro.
 
-In _[!UICONTROL Prestazione riunione]_, esaminare diverse categorie di analisi, tra cui il numero di visitatori che hanno richiesto riunioni, quanti sono stati saltati, qual è stata la tendenza delle riunioni, chi sono i rappresentanti che hanno partecipato alle riunioni e molto altro.
+### Pagina riunioni {#performance}
 
 ![Pagina prestazioni riunione](assets/meetings-performance-1.png){width="800" zoomable="yes"}

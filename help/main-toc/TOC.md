@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Esplora Adobe Brand Concierge
-source-git-commit: 019913304088ac33b80bc937297d000010bfccf7
+source-git-commit: 2c3f3d009d8fef3eaf5bf32d73672eeda7ba05c8
 workflow-type: tm+mt
-source-wordcount: '26'
-ht-degree: 15%
+source-wordcount: '31'
+ht-degree: 12%
 
 ---
 
@@ -13,9 +13,10 @@ ht-degree: 15%
 # Adobe Brand Concierge {#content}
 
 + [Brand Concierge](../home.md)
-+ Guida introduttuva{#getting-started}
-   + [Crea primo portinaio](../getting-started/create-first-concierge.md)
-   + [Prenotazione di una riunione](../getting-started/meeting-booking.md)
++ Video introduttivi{#getting-started}
+   + [Creare un portinaio](../getting-started/create-first-concierge.md)
+   + [Prenotare una riunione](../getting-started/meeting-booking.md)
 + Documentazione{#documentation}
-   + [Panoramica](../documentation/overview.md)
+   + [Aiuto per il portinaio](../documentation/overview.md)
    + [Riunioni](../documentation/meetings.md)
+   + [Domande frequenti](../documentation/brand-concierge-faq.md)

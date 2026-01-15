@@ -1,5 +1,5 @@
 ---
-title: Introduzione a Brand Concierge
+title: Crea un video per portineria
 description: Scopri come impostare un Brand Concierge di Adobe per fornire ai clienti esperienze personalizzate e conversazionali utilizzando la voce del tuo marchio.
 topic: Personalization,Integrations
 role: User
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 181
 last-substantial-update: 2025-10-31T00:00:00Z
 jira: KT-19504
-source-git-commit: 9ae37f8f5b85e21930ccc0644520f31d65a81829
+source-git-commit: f2006c69fec365551f791a6c94bca6f1c2c6cdc4
 workflow-type: tm+mt
-source-wordcount: '127'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
@@ -32,4 +32,6 @@ Scopri come configurare il primo Brand Concierge di Adobe per aiutare i clienti 
 * Come collegare le origini di contenuto per ottenere risposte accurate
 * Come personalizzare la voce del brand e testare l’esperienza
 
->[!VIDEO](https://video.tv.adobe.com/v/3476529/?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476521/?learn=on&enablevpops)
+
+Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).
