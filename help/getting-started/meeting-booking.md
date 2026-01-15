@@ -1,5 +1,5 @@
 ---
-title: Prenotare una riunione
+title: Prenotazione di una riunione - Video
 description: Scopri come prenotare una riunione. Consulta l’esperienza come cliente, configura i rappresentanti affinché utilizzino il calendario e visualizzino i rapporti
 topic: Artificial Intelligence,Personalization
 role: Admin, User
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 226
 last-substantial-update: 2026-01-06T00:00:00Z
 jira: KT-19622
-source-git-commit: 8afc5a9ad7978fa5a83e98443d6bf129896eb909
+source-git-commit: 1527a37e7ddadcc89e43bdcc0396ee175e3fbdc7
 workflow-type: tm+mt
-source-wordcount: '119'
+source-wordcount: '120'
 ht-degree: 0%
 
 ---
@@ -32,6 +32,6 @@ Scopri come prenotare una funzionalità per riunioni in Adobe Brand Concierge. I
 * Scopri come avviene un trasferimento a un agente live in modo rapido e semplice
 * Scopri come questi strumenti vengono gestiti e configurati
 
->[!VIDEO](https://video.tv.adobe.com/v/3478542?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
 Per ulteriori informazioni, vedere [Riunioni](../documentation/meetings.md).
