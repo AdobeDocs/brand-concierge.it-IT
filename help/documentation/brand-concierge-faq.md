@@ -3,9 +3,9 @@ title: Domande frequenti
 description: Risposte alle domande frequenti su Adobe Brand Concierge.
 role: User,Admin
 level: Beginner
-source-git-commit: 0f010472e3f49c5d84e9875a33215d56e020bef8
+source-git-commit: 06911f38d17882cdae8441d5cbdbcdf786d9e6bb
 workflow-type: tm+mt
-source-wordcount: '1091'
+source-wordcount: '1537'
 ht-degree: 1%
 
 ---
@@ -16,13 +16,17 @@ Leggi questa sezione per le risposte alle domande più frequenti su Brand Concie
 
 ## Generale
 
+### Perché utilizzare Brand Concierge? Che problema risolve?
+
+Ulteriori ricerche si svolgono su strumenti di intelligenza artificiale esterni (ad esempio, ChatGPT, Gemini) invece che su siti web di marchi. I visitatori desiderano sempre più &quot;arrivare al punto&quot;, ad esempio &quot;Dimmi di X&quot;, &quot;Posso fare Y?&quot; Brand Concierge ti aiuta a mantenere tale conversazione sul sito: quando i visitatori arrivano sulle tue pagine (incluso da un assistente AI), possono continuare la conversazione con un assistente esperto sui tuoi contenuti. Puoi offrire un’esperienza coerente all’interno del marchio, invece di perderli per rispondere altrove a risposte generiche.
+
 ### Quali sono le differenze tra Brand Concierge e i chatbot?
 
 Brand Concierge si distingue dai chatbot tradizionali sfruttando l’intelligenza artificiale generativa appositamente addestrata sui contenuti e sui dati dei clienti della tua organizzazione, anziché affidarsi a risposte basate su script o a risultati web generici. Questo consente all’assistente di fornire risposte personalizzate basate sul comportamento dei singoli clienti, di integrarsi in modo approfondito con i tuoi strumenti e dati di Adobe, di imparare continuamente da ogni interazione e di interpretare con precisione le intenzioni dei clienti oltre la corrispondenza delle parole chiave di base.
 
 ### Posso utilizzare Brand Concierge sia per B2C che per B2B?
 
-Sì.  I casi di utilizzo includono:
+Sì. I casi di utilizzo includono:
 
 * **B2C:** individuazione prodotto, assistenza acquisti, supporto clienti, consigli personalizzati.
 * **B2B:** Valutazioni guidate, confronti di funzionalità, pianificazione delle riunioni, routing del rappresentante commerciale, prenotazione delle consulenze.
@@ -35,7 +39,7 @@ Brand Concierge può essere utilizzato in una vasta gamma di settori, tra cui re
 
 ### I dati del cliente sono sicuri?
 
-Sì.  Brand Concierge garantisce la sicurezza dei dati dei clienti aderendo alle normative RGPD e CCPA, elaborando i dati sull’infrastruttura sicura di Adobe, fornendo un controllo sull’utilizzo dei dati e salvaguardando le conversazioni attraverso la crittografia e la registrazione dei controlli.
+Sì. Brand Concierge garantisce la sicurezza dei dati dei clienti aderendo alle normative RGPD e CCPA, elaborando i dati sull’infrastruttura sicura di Adobe, fornendo un controllo sull’utilizzo dei dati e salvaguardando le conversazioni attraverso la crittografia e la registrazione dei controlli.
 
 Tutte le conversazioni avvengono sulle tue proprietà, non sui server di terze parti.
 
@@ -47,13 +51,29 @@ Tutte le conversazioni avvengono sulle tue proprietà, non sui server di terze p
 |------------------|---------------------------|
 | **Prodotto e contenuto** | Cataloghi di prodotti<br>Sistemi di inventario<br>Knowledge base e documentazione<br>Contenuto del sito web tramite caricamento URL CSV<br>Contenuto Adobe Experience Manager<br>Dati Adobe Commerce |
 | **Dati cliente** | Profili Adobe Experience Platform<br>Dati sul comportamento di Adobe Analytics<br>Attributi del cliente di prime parti<br>API di terze parti (configurate) |
-| **Formato file CSV** | Una colonna contenente gli URL del sito Web<br>Brand Concierge esegue la ricerca per indicizzazione degli URL ed estrae automaticamente il contenuto<br>Elaborazione in tempo reale degli aggiornamenti dello stato<br>È possibile caricare più file CSV per aree di contenuto diverse |
+| **Formato file CSV** | Una colonna contenente gli URL del sito Web<br>Brand Concierge scansiona gli URL ed estrae automaticamente il contenuto<br>Elaborazione in tempo reale degli aggiornamenti dello stato<br>È possibile caricare più file CSV per aree di contenuto diverse |
 
 Tutti i dati seguono le tue regole di governance.
 
 ### I clienti possono rinunciare alla personalizzazione?
 
-Sì.  I clienti che rinunciano ricevono risposte utili senza dover personalizzare il comportamento. Configura la gestione delle rinunce in base alle tue politiche sulla privacy.
+Sì. I clienti che rinunciano ricevono risposte utili senza dover personalizzare il comportamento. Configura la gestione delle rinunce in base alle tue politiche sulla privacy.
+
+### Ci sono implicazioni relative al consenso o alla privacy?
+
+Sì. **Dati sulla conversazione:** se la conversazione include informazioni personali o identificabili, la raccolta, l&#39;archiviazione e l&#39;utilizzo devono essere conformi alle politiche relative al consenso e alla privacy (ad esempio, GDPR, CCPA). **Analytics:** Quando Concierge invia eventi ad Experience Platform o Analytics, questi possono essere soggetti al consenso e alla governance esistenti (ad esempio, stringhe di consenso, etichette di utilizzo dei dati). Consigliamo di trattare Concierge come qualsiasi altra esperienza digitale di prima parte: assicurati che il banner e le preferenze di consenso del tuo sito coprano i dati e le analisi di conversazione e chat e allineino i dati dell’evento alla tua strategia di consenso. Richiedi una revisione legale e di conformità prima del lancio.
+
+## Profili e personalizzazione
+
+### Concierge utilizza i profili cliente (ad esempio, Real-Time CDP) per adattare le risposte? Cosa succede se il visitatore è parte di un percorso?
+
+Nell’ambito attuale, Concierge si concentra sui visitatori anonimi: risponde dalla conversazione e dalla knowledge base (sito web e catalogo), non da una ricerca in tempo reale dell’identità o dello stato del percorso in Real-Time CDP. Le funzionalità della roadmap includono lo sviluppo dei lead, il passaggio alle vendite e il retargeting, che si allinea maggiormente ai profili noti e al contesto del percorso. Personalizzazione delle risposte per &quot;questo visitatore ha un profilo?&quot; o &quot;dove si trovano in un percorso?&quot; è un miglioramento futuro. Per il momento, l’esperienza è simile per i visitatori anonimi.
+
+## Rollout e timeline
+
+### Quanto tempo ci vuole in genere per andare &quot;live&quot;?
+
+Grazie al lavoro in parallelo e alla collaborazione attiva, molte implementazioni vengono pubblicate in circa 6-9 settimane. La gestione temporanea può iniziare rapidamente una volta che gli input (URL, catalogo, linee guida del brand) sono pronti. Dopo l’impostazione dell’accordo e della produzione, puoi passare attraverso il tuning della qualità e un rollout controllato (ad esempio, 5%, quindi scalabilità al 100% in circa una settimana).
 
 ## Configurazione e controllo
 
@@ -67,7 +87,7 @@ Puoi controllare la voce del brand direttamente nell’interfaccia utente config
 
 ### Posso personalizzare il design visivo?
 
-Sì.  Personalizza tutti gli elementi visivi, tra cui:
+Sì. Personalizza tutti gli elementi visivi, tra cui:
 
 * Colori e marchio
 * Caratteri e composizione tipografica
@@ -109,6 +129,12 @@ I consulenti Adobe gestiscono la progettazione dei prompt in background:
 
 In questo modo il tuo concierge utilizza i pattern di prompt di IA basati sulle best practice, mantenendo al contempo i requisiti del brand specifici.
 
+## Espressione e tono del brand
+
+### Se nell’espressione del marchio definisco &quot;giocoso ed entusiasta&quot;, l’intelligenza artificiale lo farà in modo eccessivo?
+
+Può. Alcuni clienti hanno riferito che l’intelligenza artificiale tende a esagerare l’entusiasmo quando impostata su &quot;giocosa ed entusiasta&quot;, ad esempio punti esclamativi doppi o superlativi forti. Per il pubblico regolamentato o medico (ad esempio, il pharma, la nutrizione della prima vita), consigliamo di comporre entusiasmo e giocosità mantenendo il tono conversazionale e informale. Utilizza impostazioni moderate e sintonizza in base al feedback; per i settori regolamentati, spendi verso &quot;conversazionale&quot; piuttosto che &quot;entusiasta&quot;.
+
 ## Prestazioni e analisi
 
 ### Come posso misurare il successo?
@@ -118,7 +144,7 @@ Puoi misurare il successo utilizzando la dashboard di Brand Concierge. Utilizza 
 | Metrica | Cosa Traccia |
 |--------|----------------|
 | **Coinvolgimento** | Volume di conversazione, durata della sessione |
-| **Soddisfazione** | Punteggi di valutazione, valutazioni di feedback |
+| **Soddisfazione** | Punteggi sentiment, valutazioni di feedback |
 | **Conversione** | Tassi di acquisto per assistiti e non assistiti |
 | **Argomenti** | Domande e richieste più comuni |
 | **Handoff** | Tassi e motivi di escalation |
@@ -126,9 +152,9 @@ Puoi misurare il successo utilizzando la dashboard di Brand Concierge. Utilizza 
 
 Puoi anche eseguire l’integrazione con Adobe Analytics per analisi più approfondite.
 
-### Cosa devo fare se il sentimento cala?
+### Cosa devo fare se il sentiment cade?
 
-Se noti un calo di valutazione, indaga le cause sottostanti esaminando le query recenti non riuscite, verificando eventuali vuoti di contenuto, analizzando i feedback negativi, testando il tono appropriato e verificando eventuali problemi tecnici. Una volta identificate le cause principali, affrontarle tempestivamente e continuare a monitorare i miglioramenti.
+Se noti un calo nel sentiment, indaga le cause sottostanti esaminando le query recenti non riuscite, verificando eventuali vuoti di contenuto, analizzando i feedback negativi, testando il tono appropriato e verificando eventuali problemi tecnici. Una volta identificate le cause principali, affrontarle tempestivamente e continuare a monitorare i miglioramenti.
 
 ## Integrazione e assistenza tecnica
 
@@ -153,4 +179,4 @@ Quando viene attivato il trasferimento dell’agente, Brand Concierge trasferisc
 
 ### Posso supportare più lingue?
 
-Sì.  Configurare il supporto linguistico per ogni assistente in base alla base cliente. Brand Concierge rileva la lingua del cliente e risponde di conseguenza.
+Sì. Configurare il supporto linguistico per ogni assistente in base alla base cliente. Brand Concierge rileva la lingua del cliente e risponde di conseguenza.
