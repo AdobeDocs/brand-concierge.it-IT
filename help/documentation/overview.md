@@ -3,9 +3,24 @@ title: Documentazione del prodotto
 description: Scopri come configurare e utilizzare le funzioni chiave di Brand Concierge.
 role: User,Admin
 level: Beginner
-source-git-commit: 2c3f3d009d8fef3eaf5bf32d73672eeda7ba05c8
+TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+  - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
 workflow-type: tm+mt
-source-wordcount: '1768'
+source-wordcount: 1793
 ht-degree: 1%
 
 ---
@@ -24,7 +39,7 @@ Brand Concierge offre una serie di funzionalità chiave, tra cui:
 * **Marchio di controllo:** regola la voce, il tono e la lunghezza di risposta per soddisfare gli standard e l&#39;approccio del tuo marchio.
 * **Anteprima e iterazione:** Utilizza un&#39;interfaccia di anteprima completa per simulare conversazioni e eseguire regolazioni in tempo reale.
 * **Sistema di feedback:** utilizza un sistema di feedback che consente agli utenti di fornire valutazioni positive o negative, insieme a moduli di feedback dettagliati che coprono la copertura della risposta, il tono, la qualità e le funzionalità.
-* **Dashboard di Analytics:** sfrutta una dashboard di analisi basata su Customer Journey Analytics per metriche quali conversazioni, valutazione e coinvolgimento.
+* **Dashboard di Analytics:** sfrutta una dashboard di analisi basata su Customer Journey Analytics per metriche quali conversazioni, sentiment e coinvolgimento.
 
 ## Introduzione {#getting-started}
 
@@ -71,7 +86,7 @@ Una volta completata la configurazione, un riepilogo della configurazione fornis
 [!UICONTROL Sorgenti di conoscenza] consente di gestire le origini dati che alimentano le risposte del portinaio. Dopo aver caricato i file iniziali, puoi accedere a [!UICONTROL Origini informazioni]. [!UICONTROL Origini della conoscenza] include diversi elementi chiave da considerare, ad esempio:
 
 * **Elenco Source:** visualizza tutti gli elementi caricati, ad esempio i file CSV con collegamenti a siti Web, e ne indica lo stato come Elaborato o In sospeso.
-* **Interfaccia di caricamento:** consente di trascinare e rilasciare o sfogliare file CSV contenenti URL, che il sistema eseguirà la ricerca per indicizzazione per estrarre informazioni.
+* **Interfaccia di caricamento:** consente di trascinare o sfogliare file CSV contenenti URL, che verranno scansionati per estrarre informazioni.
 * **Opzioni di connessione:** consente di collegare origini di conoscenza specifiche alle abilità rilevanti per un utilizzo più mirato.
 
 **Per aggiungere un&#39;origine della conoscenza**
@@ -109,7 +124,7 @@ Utilizza l&#39;interfaccia [!UICONTROL Skills Configuration] per modellare l&#39
 1. Seleziona un’abilità (ad esempio, Product Advisory).
 1. Rispondi alle domande sulla configurazione seguenti.
 
-   Le domande includono: _Cosa deve sapere il consulente sui prodotti?_, _Quali regole business seguire?_, _Quali parole chiave evitare?_
+   Gli esempi di domande includono: _Cosa deve sapere il consulente sui prodotti?_, _Quali regole aziendali devono essere seguite?_, _Quali parole chiave evitare?_
 
 1. Connetti [origini conoscenza](#knowledge-sources) pertinenti.
 1. Abilitare funzioni aggiuntive (prenotazione riunioni).
@@ -166,7 +181,7 @@ Dopo il test, puoi utilizzare la scheda Feedback nella homepage per fornire feed
 
 La sezione feedback offre diverse funzioni importanti per aiutarti a monitorare e valutare le prestazioni del Brand Concierge. Sono disponibili i seguenti elementi:
 
-* **Istantanea prestazioni:** visualizza le schede che riepilogano le metriche chiave, tra cui le conversazioni totali, gli utenti univoci, le tendenze del sentiment e il tasso di coinvolgimento.
+* **Istantanea prestazioni:** visualizza le schede che riepilogano le metriche chiave, incluse le conversazioni totali, gli utenti univoci, le tendenze dei sentiment e il tasso di coinvolgimento.
 * **Pulsante Visualizza report:** consente di aprire un dashboard basato su Customer Journey Analytics per un accesso approfondito alle analisi avanzate e alle metriche delle prestazioni.
 * **Elenco feedback:** Visualizza una tabella delle sessioni di feedback. Puoi fare clic su singole righe per visualizzare la trascrizione completa della chat per ogni sessione.
 * **Pannello feedback:** mostra le schede di valutazione sul lato destro dell&#39;interfaccia. Passa il mouse su queste schede o fai clic su di esse per evidenziare le parti pertinenti della trascrizione della chat per un facile riferimento.
@@ -179,7 +194,7 @@ La sezione feedback offre diverse funzioni importanti per aiutarti a monitorare 
 1. È inoltre possibile esaminare il pannello per ulteriori commenti e suggerimenti.
 1. Al termine, puoi esportare le informazioni da utilizzare in un secondo momento e perfezionare il flusso di lavoro.
 
-### Configurazioni  {#configurations}
+### Configurazioni {#configurations}
 
 La scheda _[!UICONTROL Configurazioni]_ è una visualizzazione di riepilogo di sola lettura che è possibile utilizzare per rivedere l&#39;installazione completa del portinaio. Questo rispecchia direttamente la Home page dopo il completamento della configurazione iniziale e fornisce un riepilogo dei tuoi dettagli, origini di conoscenza, competenze e Brand Expression configurato. È possibile utilizzare questa funzione come riferimento prima di visualizzare in anteprima o condividere il portinaio.
 
