@@ -18,9 +18,9 @@ topic_v2:
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 950a34b078c453274cc8ea9b7d236b0871e4a0ad
+source-git-commit: 320bf9530164830eae88075663bdbd6216556b5a
 workflow-type: tm+mt
-source-wordcount: 1995
+source-wordcount: 1999
 ht-degree: 1%
 
 ---
@@ -234,32 +234,32 @@ Brand Concierge supporta casi di utilizzo B2C e B2B in diversi settori.
 | Viaggi e ospitalità | I clienti ricevono consigli di destinazione personalizzati, assistenza nella pianificazione degli itinerari, supporto durante l’intero processo di prenotazione e risposte alle domande sulla politica dei viaggi. |
 | Servizi finanziari | Brand Concierge offre confronti tra prodotti per aiutare i clienti a scegliere le soluzioni finanziarie più adatte, fornisce informazioni sui clienti, fornisce indicazioni sulla conformità e consente la pianificazione delle riunioni con i consulenti finanziari. |
 
-## Divulgazione dei chatbot {#disclosure}
+## Divulgazione di IA per conversazioni {#disclosure}
 
-Per fornire un’esperienza trasparente e affidabile, gli utenti di Adobe Brand Concierge sono responsabili dell’aggiunta di una breve divulgazione all’interno della loro esperienza di chat. Questa divulgazione aiuta gli utenti finali a comprendere come funziona la chat e come possono essere utilizzate le loro informazioni.
+Per fornire un’esperienza trasparente e affidabile, gli utenti di Adobe Brand Concierge sono responsabili dell’aggiunta di una breve divulgazione all’interno della loro esperienza di conversazione. Questa divulgazione aiuta gli utenti finali a capire come funziona la conversazione e come possono essere utilizzate le loro informazioni.
 
 **Informazioni sulla divulgazione**
 
-La tua divulgazione in-chat dovrebbe comunicare chiaramente tre cose agli utenti finali.
+La tua divulgazione durante la conversazione deve comunicare chiaramente tre cose agli utenti finali.
 
-1. _La chat utilizza IA generativa_
+1. _La conversione utilizza IA generativa_
 
    Informa gli utenti che le risposte sono generate dall’intelligenza artificiale, in modo che possano capire che interagiscono con un sistema automatizzato.
 
-1. _Le chat possono essere riviste per migliorare l&#39;esperienza_
+1. _Le conversazioni possono essere riviste per migliorare l&#39;esperienza_
 
-   Gli utenti devono essere informati che le conversazioni in chat possono essere accessibili da te (il cliente) e dai tuoi provider di servizi per aiutarti a personalizzare le risposte e migliorare la qualità e le prestazioni della chat.
+   Gli utenti devono essere informati del fatto che le conversazioni sono accessibili a te (il cliente) e ai tuoi provider di servizi per aiutarti a personalizzare le risposte e migliorare la qualità e le prestazioni della conversazione.
 
-1. _Utilizzare la chat significa accettare questo utilizzo_
+1. _Utilizzare l&#39;intelligenza artificiale conversazionale significa accettare questo utilizzo_
 
-Chiarisci che continuando a utilizzare la chat, gli utenti accetteranno questo trattamento dei loro dati di chat.
+Specifica chiaramente che continuando a utilizzare l’intelligenza artificiale conversazionale, gli utenti accettano questa elaborazione dei loro dati di conversazione.
 
 **Esempio (solo a scopo di riferimento)**
 
-`"This chat uses generative AI to help respond to you. Chats may be recorded by [customer] and/or our service provider and used to help operate and improve services, make your interactions with us better, and provide a more personalized experience. By continuing to chat you agree to this processing of data."`
+`"This conversational AI uses generative AI to help respond to you. Conversations may be recorded by [customer] and/or our service provider and used to help operate and improve services, make your interactions with us better, and provide a more personalized experience. By continuing to conversational AI you agree to this processing of data."`
 
 Puoi adattare il testo alla voce del tuo marchio e all&#39;esperienza dell&#39;utente, purché i punti chiave di cui sopra vengano comunicati chiaramente.
 
 **Perché È Importante**
 
-Essere all’inizio del funzionamento della chat aiuta a impostare le giuste aspettative per gli utenti e a creare fiducia nelle esperienze basate sull’intelligenza artificiale.
+Essere all’avanguardia sul funzionamento dell’intelligenza artificiale conversazionale consente di impostare le giuste aspettative per gli utenti e crea fiducia nelle esperienze basate sull’intelligenza artificiale.
