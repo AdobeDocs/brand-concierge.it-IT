@@ -29,6 +29,6 @@ Scopri come Brand Concierge chiude il ciclo tra il sito web e Marketo Engage. Sc
 * Il tipo di attività &quot;Riunione pianificata in portineria&quot; nativo registrato nel registro attività del lead, con contesto completo: durata della riunione, fase di vendita, tipo di ciclo e stato della prenotazione
 * Come utilizzare i tipi di attività Brand Concierge nelle campagne Marketo Smart, come attivatori, filtri o dati di campagne batch
 
->[!VIDEO](https://video.tv.adobe.com/v/3492225?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3492231?captions=ita&learn=on)
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).
