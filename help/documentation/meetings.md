@@ -11,10 +11,10 @@ role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: be0b12f950b911baf48596f7b145fcaa2c6880cf
+source-git-commit: 1b1598dc2c6308ae38a2aeaf14576c9c55be5ba5
 workflow-type: tm+mt
-source-wordcount: 347
-ht-degree: 2%
+source-wordcount: 329
+ht-degree: 3%
 
 ---
 
@@ -22,7 +22,9 @@ ht-degree: 2%
 
 Scopri tutte le impostazioni della _riunione_ in Adobe Brand Concierge. Connetti il calendario, imposta la disponibilità, visualizza analisi e altro ancora.
 
-Correlato: [Prenota un meeting](../getting-started/meeting-booking.md) video
+>[!NOTE]
+>
+>Puoi anche guardare un video di [prenotazione di una riunione](../getting-started/meeting-booking.md).
 
 ## Configurazione {#configuration}
 
@@ -36,11 +38,9 @@ Connettersi all&#39;account di Outlook o Google e determinare varie impostazioni
 
    ![Home page Adobe Experience Platform](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
-1. In _Configurazione_, fare clic su **[!UICONTROL Impostazioni rappresentative]**.
+1. In _Configurazione_ fare clic su **Impostazioni profilo**. Nella scheda **[!UICONTROL Configurazione calendario]**, scegli il calendario desiderato.
 
    ![Pagina configurazione calendario](assets/meetings-connect-2.png)
-
-   Nella scheda _[!UICONTROL Configurazione calendario]_, scegli il calendario desiderato. In questo esempio si sta selezionando **[!UICONTROL Outlook]**.
 
 1. Scegli un account già connesso o aggiungine uno nuovo.
 
@@ -54,15 +54,13 @@ Connettersi all&#39;account di Outlook o Google e determinare varie impostazioni
 
 1. Fai clic su **[!UICONTROL Salva]**.
 
-### Imposta disponibilità calendario {#availability}
+### Imposta disponibilità calendario {#calendar-availability}
 
 1. Fare clic sulla scheda **[!UICONTROL Disponibilità calendario]**.
 
    ![Pagina disponibilità calendario vuota](assets/meetings-availability-1.png)
 
 1. Scegli le impostazioni desiderate.
-
-   In questo esempio si sceglie **[!UICONTROL Durata riunione]** di 30 minuti con un **[!UICONTROL Tempo buffer]** di 15 minuti e un **[!UICONTROL Avviso minimo]** di 2 ore. La disponibilità è impostata dal lunedì al venerdì, 8.00 - 17.00 PST, con una pausa di un&#39;ora a mezzogiorno.
 
    >[!NOTE]
    >
@@ -72,11 +70,18 @@ Connettersi all&#39;account di Outlook o Google e determinare varie impostazioni
 
 1. Fai clic su **[!UICONTROL Salva]**.
 
-### Gestione dei rappresentanti {#representative}
+### Impostare la disponibilità della chat in tempo reale {#chat-availability}
+
+1. Fai clic sulla scheda **[!UICONTROL Disponibilità chat in tempo reale]** e scegli le impostazioni desiderate. Al termine, fai clic su **Salva**.
+
+   ![Pagina di disponibilità di Live Chat con tutti i campi compilati](assets/meetings-availability-3.png)
+
+
+### Gestisci membri {#manage}
 
 **Solo amministratori**. Controlla quali dei tuoi rappresentanti hanno collegato correttamente il loro calendario.
 
-![Pagina di gestione dei rappresentanti](assets/meetings-representative-1.png){width="800" zoomable="yes"}
+![Pagina di gestione dei rappresentanti](assets/manage-members-1.png)
 
 ## Attività {#activities}
 
