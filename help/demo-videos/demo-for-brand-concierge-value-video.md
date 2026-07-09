@@ -4,35 +4,19 @@ description: 'Scopri la demo per brand concierge: video a valore aggiunto.'
 role: User
 level: Beginner
 doc-type: Value Video
-duration: 111
+duration: 130
 last-substantial-update: 2026-07-09T00:00:00Z
 jira: KT-21955
 hide: true
-source-git-commit: 2f42997f9c4510d3a5e4cf321795dcedcbebdd5d
+source-git-commit: 82c76581434ed1e1a4ae2e8846c4cab9ad369f24
 workflow-type: tm+mt
-source-wordcount: '31'
-ht-degree: 12%
+source-wordcount: '91'
+ht-degree: 0%
 
 ---
 
-# Demo per brand concierge - Video sul valore aggiunto
+# Creazione e gestione di un Brand Concierge da Co-Worker
 
-## Panoramica
+Questo video illustra come creare e gestire un Brand Concierge (BC) direttamente da Co-Worker utilizzando prompt in linguaggio naturale. Mostra il flusso end-to-end: richiede al collega di creare un Brand Concierge per un sito web, visualizza la finestra modale di avanzamento della creazione in tempo reale, apre l’anteprima BC e quindi richiede l’analisi della conversazione per aprire il dashboard Rapporti di Brand Concierge per una determinata organizzazione IMS e sandbox.
 
-<!-- Briefly describe what this page covers and why it matters to the reader. -->
-
-## Prerequisiti
-
-<!-- List anything the reader needs before starting (permissions, tools, prior knowledge). -->
-
-## Passaggi
-
-<!-- Replace this section heading with a task-specific verb phrase, e.g. 'Configure the data stream'. -->
-
-1. Passaggio uno.
-1. Passaggio due.
-1. Passaggio tre.
-
-## Risorse aggiuntive
-
-<!-- Link to related documentation, tutorials, or community posts. -->
+>[!VIDEO](https://video.tv.adobe.com/v/3494753?captions=ita)
