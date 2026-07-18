@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Esplora Adobe Brand Concierge
-source-git-commit: e1f4f561ee284f0c4c0b3d75e9f7ed6d5d5a1ac8
+source-git-commit: 8aa2ce596a0ffa2f013b25b9fbb6bfd881197a59
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 35%
+source-wordcount: '64'
+ht-degree: 32%
 
 ---
 
@@ -14,16 +14,17 @@ ht-degree: 35%
 
 + [Brand Concierge](../home.md)
 + Video introduttivi {#getting-started}
-   + [Crea il primo portinaio](../getting-started/create-first-concierge.md)
-   + [Prenotare una riunione](../getting-started/meeting-booking.md)
-   + [Scopri gli ID dello stream di dati](../getting-started/learn-about-datastream-ids.md)
-   + [Integrazione con Marketo](../getting-started/integration-with-marketo.md)
+  + [Crea il primo portinaio](../getting-started/create-first-concierge.md)
+  + [Prenotare una riunione](../getting-started/meeting-booking.md)
+  + [Scopri gli ID dello stream di dati](../getting-started/learn-about-datastream-ids.md)
+  + [Integrazione con Marketo](../getting-started/integration-with-marketo.md)
 + Guida di Go-Live {#go-live-guide}
-   + [Benvenuto nel percorso di pubblicazione](../go-live/welcome.md)
+  + [Benvenuto nel percorso di pubblicazione](../go-live/welcome.md)
+  + [Preparazione dei contenuti e dell’esperienza del visitatore](../go-live/content-and-journey.md)
 + Documentazione {#documentation}
-   + [Aiuto di Brand Concierge](../documentation/overview.md)
-   + [Riunioni](../documentation/meetings.md)
-   + [Domande frequenti](../documentation/brand-concierge-faq.md)
+  + [Aiuto di Brand Concierge](../documentation/overview.md)
+  + [Riunioni](../documentation/meetings.md)
+  + [Domande frequenti](../documentation/brand-concierge-faq.md)
 + Note sulla versione {#release-notes}
-   + [Informazioni sulla versione corrente](../release-notes/current.md)
+  + [Informazioni sulla versione corrente](../release-notes/current.md)
 + {hide-from-toc}[Demo per brand concierge - Video sul valore](../demo-videos/demo-for-brand-concierge-value-video.md)
