@@ -32,6 +32,6 @@ Il portinaio non dovrebbe sembrare un chatbot generico, dovrebbe sembrare il tuo
 * Scelte visive del widget: posizionamento, modalità di visualizzazione, colore e font
 * Denominazione dell&#39;assistente, scrittura del relativo saluto e scelta dei prompt iniziali
 
->[!VIDEO](https://video.tv.adobe.com/v/3496942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496948/?captions=ita&learn=on)
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).
