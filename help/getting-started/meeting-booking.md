@@ -43,6 +43,6 @@ Scopri la funzionalità di prenotazione riunioni disponibile in Adobe Brand Conc
 * Scopri come avviene un trasferimento a un agente live in modo rapido e semplice
 * Scopri come questi strumenti vengono gestiti e configurati
 
->[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478542?captions=ita&learn=on&enablevpops)
 
 Per ulteriori informazioni, vedere [Riunioni](../documentation/meetings.md).

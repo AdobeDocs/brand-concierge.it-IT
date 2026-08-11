@@ -32,6 +32,6 @@ Preparati per andare in diretta con Adobe Brand Concierge, un assistente basato 
 * Cosa fornisci e cosa configura il tuo team Adobe
 * La sequenza temporale tipica da sei a nove settimane e gli effetti
 
->[!VIDEO](https://video.tv.adobe.com/v/3495869/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3495875/?captions=ita&learn=on)
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).
