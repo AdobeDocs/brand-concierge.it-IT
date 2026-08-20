@@ -42,7 +42,7 @@ Scopri come configurare il tuo primo Brand Concierge di Adobe in pochi minuti. F
 * Come rivedere e regolare il profilo del brand, le istruzioni e i prompt di avvio prima di salvare
 * Come testare il tuo concierge con domande di esempio su desktop e dispositivi mobili
 
->[!VIDEO](https://video.tv.adobe.com/v/3476521?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476529?captions=ita&learn=on)
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).
 
