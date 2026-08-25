@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Esplora Adobe Brand Concierge
-source-git-commit: 9eb6c0edb3712451c6d0d118cf19304e34630737
+source-git-commit: aa3c84f02c1f49c55876248a305bb01ea2a7ec28
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 26%
+source-wordcount: '107'
+ht-degree: 20%
 
 ---
 
@@ -28,6 +28,13 @@ ht-degree: 26%
   + [Riunioni](../documentation/meetings.md)
   + {hide-from-toc}[Framework competenze e integrazioni](../documentation/skills-and-integrations.md)
   + [Domande frequenti](../documentation/brand-concierge-faq.md)
+  + Panoramica {#overview}
+    + {hide-from-toc}[Panoramica di Brand Concierge](../documentation/overview/overview.md)
+    + {hide-from-toc}[Il tuo primo Brand Concierge](../documentation/overview/first-brand-concierge.md)
+  + Gestione degli utenti e degli accessi {#user-and-access-management}
+    + {hide-from-toc}[Aggiungere un utente all&#39;organizzazione](../documentation/user-and-access-management/add-a-user-to-the-org.md)
+    + {hide-from-toc}[Aggiungi un utente al ruolo](../documentation/user-and-access-management/add-a-user-to-the-role.md)
+    + {hide-from-toc}[Crea un ruolo](../documentation/user-and-access-management/create-a-role.md)
 + Note sulla versione {#release-notes}
   + [Informazioni sulla versione corrente](../release-notes/current.md)
 + {hide-from-toc}[Demo per brand concierge - Video sul valore](../demo-videos/demo-for-brand-concierge-value-video.md)
