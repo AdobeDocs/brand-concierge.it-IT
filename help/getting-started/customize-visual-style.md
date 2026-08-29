@@ -32,6 +32,6 @@ Il Brand Concierge di Adobe inizia con scelte visive che Adobe ha già fatto per
 * Come modificare l’intestazione e il sottotitolo del messaggio di benvenuto, inclusi il colore del testo, lo spessore e le dimensioni
 * Come aggiungere, rimuovere e modificare le schede dei prompt di avvio, inclusi il testo della scheda, le immagini e il colore di sfondo
 
->[!VIDEO](https://video.tv.adobe.com/v/3502259)
+>[!VIDEO](https://video.tv.adobe.com/v/3502265?captions=ita)
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).
