@@ -2,9 +2,9 @@
 title: Creazione e gestione di origini di conoscenza per Brand Concierge
 description: Scopri come creare AEM Sites, collegamenti a siti web e origini di conoscenza del catalogo dei prodotti per Brand Concierge, monitorare lo stato di elaborazione e risolvere i problemi di scansiona.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '873'
+source-wordcount: '864'
 ht-degree: 1%
 
 ---
@@ -21,8 +21,6 @@ Un concierge risponde alle domande utilizzando solo le origini di conoscenza con
 >Se un visitatore chiede informazioni al di fuori delle origini di conoscenza configurate, il portinaio è progettato per indicare che non dispone delle informazioni, anziché generare una risposta non supportata. Utilizza il processo di valutazione per verificare questo comportamento.
 
 ## Scegli un&#39;origine di conoscenza
-
-Il materiale di origine descrive i seguenti tipi di origini di conoscenza:
 
 | Sorgente della conoscenza | Utilizzala quando | Funzionalità principale |
 | --- | --- | --- |
