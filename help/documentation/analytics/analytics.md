@@ -2,9 +2,9 @@
 title: Analizzare le prestazioni del concierge
 description: Scopri come rivedere le analisi di consulenza, esaminare le trascrizioni delle conversazioni, aggiungere domande ai visitatori dei set di valutazione e aprire i rapporti di Customer Journey Analytics.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '470'
+source-wordcount: '442'
 ht-degree: 0%
 
 ---
@@ -80,10 +80,6 @@ Il dashboard di CJA include:
 - Raccomandazioni del portiere fatte durante le conversazioni.
 
 Utilizza la dashboard per esaminare le tendenze nel tempo e identificare i cambiamenti nel coinvolgimento, nel feedback, nell’intento e nel sentiment dei visitatori.
-
-## Esporta conversazioni
-
-Il materiale sorgente identifica l’ID della conversazione come un modo per far corrispondere le trascrizioni con i record di altri sistemi, ma non documenta un meccanismo di esportazione.
 
 >[!IMPORTANT]
 >

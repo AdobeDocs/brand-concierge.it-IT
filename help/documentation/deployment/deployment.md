@@ -2,9 +2,9 @@
 title: Distribuire un portinaio
 description: Scopri come distribuire un Brand Concierge configurando un flusso di dati, installando lo script di distribuzione, definendo le regole di superficie e verificando la distribuzione.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: da4b30fa292b911987aebec378af420b293ea594
 workflow-type: tm+mt
-source-wordcount: '688'
+source-wordcount: '572'
 ht-degree: 0%
 
 ---
@@ -80,17 +80,3 @@ Dopo che il team del sito Web ha installato lo script e le regole di superficie 
 >[!TIP]
 >
 >Esegui il test sia di una pagina inclusa che di una pagina esclusa. Ciò conferma che le regole di superficie funzionano come previsto prima che il portinaio sia reso ampiamente disponibile.
-
-## Domande aperte e note sull&#39;ambito
-
-Il materiale di origine non definisce i seguenti dettagli:
-
-- Elenco canonico completo dei tipi di evento inviati allo stream di dati. Gli esempi forniti includono clic, invio di moduli, riunioni prenotate e chat in tempo reale, ma l’elenco completo deve essere confermato con l’assistenza tecnica.
-- Se la configurazione del flusso di dati differisce tra i clienti di prova e quelli a pagamento.
-- In quale prodotto di analisi specifico viene visualizzata l’attività dello stream di dati; il materiale sorgente si riferisce a questo solo come &quot;Analytics&quot;.
-
-Queste domande possono sovrapporsi a requisiti di telemetria separati e devono essere risolte con il team di progettazione o di prodotto appropriato prima di pubblicare le linee guida per la distribuzione come riferimento definitivo.
-
-## Contenuto sorgente incompleto
-
-L&#39;origine fornita termina improvvisamente al punto 8, che non ha contenuto.
