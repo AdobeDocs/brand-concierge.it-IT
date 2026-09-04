@@ -2,10 +2,10 @@
 title: Gestire un portinaio
 description: Scopri come creare un Brand Concierge da un sito web, configurarne integrazioni, abilità, istruzioni, tono e stile visivo e testarlo prima della distribuzione.
 toc: true
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
 workflow-type: tm+mt
-source-wordcount: '1804'
-ht-degree: 0%
+source-wordcount: '1761'
+ht-degree: 1%
 
 ---
 
@@ -161,10 +161,6 @@ Le impostazioni di stile visivo controllano l’aspetto del portinaio, tra cui:
 - Colori scheda
 
 Modifica le impostazioni nell’interfaccia utente e utilizza l’anteprima live per rivedere le modifiche. Seleziona **Salva** per rendere le modifiche permanenti.
-
->[!NOTE]
->
->Il materiale di origine afferma che un aspetto completamente personalizzato potrebbe essere possibile oltre le opzioni disponibili nell’interfaccia utente, attraverso uno script di distribuzione separato. La procedura di script di distribuzione non è stata inclusa e deve essere documentata separatamente dopo la conferma.
 
 ## Configurare i componenti chat
 
