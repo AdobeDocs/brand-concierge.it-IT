@@ -18,9 +18,9 @@ topic_v2:
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 320bf9530164830eae88075663bdbd6216556b5a
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: 1999
+source-wordcount: 2047
 ht-degree: 1%
 
 ---
@@ -43,12 +43,12 @@ Brand Concierge offre una serie di funzionalità chiave, tra cui:
 
 ## Introduzione {#getting-started}
 
-Puoi accedere a Brand Concierge dalla dashboard di Adobe Experience Cloud. A un livello avanzato, è possibile eseguire queste attività nella procedura dettagliata:
+Puoi accedere a Brand Concierge dalla dashboard di Adobe Experience Cloud. Ad alto livello, è possibile eseguire le seguenti attività:
 
-1. [Creare un portinaio](#homepage)
-1. [Aggiungi origini di conoscenza](#knowledge-sources)
-1. [Configurare le abilità](#skills-configuration)
-1. [Specifica la tua Espressione marchio](#brand-expression).
+1. [Crea un portinaio](#homepage) da un URL del sito Web. Vengono generate automaticamente un’origine della conoscenza iniziale, un’espressione del brand e un’abilità di base.
+1. [Rivedi e perfeziona le origini di conoscenza](#knowledge-sources) in base alle esigenze.
+1. [Configura ulteriori abilità](#skills-configuration) oltre l&#39;abilità prevista.
+1. [Regola la tua Espressione marchio](#brand-expression) se i valori predefiniti generati richiedono modifiche.
 
 Per un&#39;esercitazione video, consulta [Creare il primo portinaio](../getting-started/create-first-concierge.md)
 
@@ -56,26 +56,27 @@ Le sezioni seguenti descrivono in dettaglio ogni attività e le opzioni di inter
 
 ## Creare un portinaio {#homepage}
 
-La home page di Brand Concierge è progettata per offrire facilità di utilizzo ed efficienza, guidandoti attraverso le fasi di configurazione essenziali con una procedura dettagliata dedicata agli utenti. Un banner principale illustra le azioni chiave, come specificare il nome e lo scopo del portinaio, aggiungere origini di conoscenza, configurare competenze rilevanti e definire l’espressione del brand.
+La creazione di un portinaio da un singolo URL del sito web è il punto di partenza consigliato per un utente alle prime armi. La home page di Brand Concierge legge il sito e crea automaticamente una linea di base di lavoro: per iniziare non è necessaria alcuna configurazione manuale.
 
-Man mano che procedi, un tracciatore visivo mostra chiaramente quali componenti di configurazione sono stati completati ed evidenzia eventuali attività rimanenti. Per supportare ulteriormente le tue attività, la homepage include una sezione di ispirazione con video e dimostrazioni sulle funzionalità di consulenza, ad esempio i consigli di prodotto. Puoi anche accedere rapidamente alla documentazione di Experience League per ottenere informazioni tecniche più approfondite.
-
-Una volta completata la configurazione, un riepilogo della configurazione fornisce una vista completa dei dettagli, organizzata con schede per facilitare le regolazioni e i perfezionamenti continui.
+Al termine dell’installazione, un riepilogo della configurazione fornisce una visualizzazione completa dei dettagli, organizzata con schede per facilitare le regolazioni e i perfezionamenti continui. La homepage include anche una sezione di ispirazione con video e dimostrazioni delle funzionalità di consulenza, come consigli di prodotto, e accesso rapido alla documentazione di Experience League per approfondimenti tecnici.
 
 **Elementi chiave**
 
-* **Procedura dettagliata per il primo utente**: banner principale con passaggi per configurare il portinaio (nome/scopo, origini di conoscenza, abilità, espressione del brand).
-* **Tracciamento avanzamento**: indicatori visivi di componenti di installazione completati e in sospeso.
+* **Creazione con un solo clic**: immetti l&#39;URL di un sito Web per generare automaticamente un&#39;espressione del brand iniziale, un profilo del brand, istruzioni, guardrail, knowledge source e competenze di base.
+* **Revisione guidata**: ogni elemento generato viene presentato per la revisione prima di essere salvato, quindi nulla viene reso disponibile senza la possibilità di modificarlo prima.
 * **Sezione ispiratrice**: video e demo che mostrano le funzionalità di consulenza (ad esempio, consigli sui prodotti).
 * **Collegamenti alla documentazione**: accesso rapido alle risorse Experience League per approfondimenti tecnici.
 * **Riepilogo configurazione**: visualizzazione di tutti i dettagli dopo l&#39;installazione, con schede da perfezionare.
 
 **Per creare un portinaio**
 
-1. Passare al banner della procedura dettagliata, quindi fare clic su **[!UICONTROL Inizia]**.
-1. Immetti un nome per il portinaio e definisci il suo scopo (ad esempio, _Consiglia prodotti personalizzati_).
-1. Segui i passaggi guidati per procedere.
-1. Una volta completata la configurazione, torna alla homepage per monitorare o modificare il portinaio.
+1. Immetti l&#39;URL del sito Web del brand e seleziona **[!UICONTROL Crea]**.
+1. Rivedi l’espressione del brand generata (come formalità, calore, giocosità ed energia) e regolala in base alle esigenze.
+1. Esamina il profilo del brand generato, compresi obiettivi, prodotti e servizi, pubblico target e differenziatori, e apporta le modifiche necessarie.
+1. Esamina le istruzioni, i guardrail e i suggerimenti generati e apporta le modifiche necessarie.
+1. Seleziona **[!UICONTROL Salva]**. Il portinaio è pronto per il test in anteprima.
+
+Per informazioni complete su questo flusso, incluso ciò che viene configurato automaticamente, vedi [Gestire un portinaio](./concierge-management/concierge-management.md).
 
 >[!TIP]
 >
@@ -83,7 +84,7 @@ Una volta completata la configurazione, un riepilogo della configurazione fornis
 
 ### Sorgenti della conoscenza {#knowledge-sources}
 
-[!UICONTROL Sorgenti di conoscenza] consente di gestire le origini dati che alimentano le risposte del portinaio. Dopo aver caricato i file iniziali, puoi accedere a [!UICONTROL Origini informazioni]. [!UICONTROL Origini della conoscenza] include diversi elementi chiave da considerare, ad esempio:
+[!UICONTROL Sorgenti di conoscenza] consente di gestire le origini dati che alimentano le risposte del portinaio. Un&#39;origine delle conoscenze iniziale viene creata automaticamente quando si crea un portinaio da un URL di sito Web. Utilizzare quest&#39;area per esaminarla o aggiungerne altre. [!UICONTROL Origini della conoscenza] include diversi elementi chiave da considerare, ad esempio:
 
 * **Elenco Source:** visualizza tutti gli elementi caricati, ad esempio i file CSV con collegamenti a siti Web, e ne indica lo stato come Elaborato o In sospeso.
 * **Interfaccia di caricamento:** consente di trascinare o sfogliare file CSV contenenti URL, che verranno scansionati per estrarre informazioni.
@@ -109,37 +110,37 @@ Una volta completata la configurazione, un riepilogo della configurazione fornis
 
    Utilizza la pagina Home per modificare o eliminare le tue origini di conoscenza in base alle esigenze. È inoltre possibile riconnettere un&#39;origine della conoscenza in caso di modifiche.
 
+Per l&#39;insieme completo dei tipi di origine delle informazioni e dei passaggi per la risoluzione dei problemi, vedere [Creare e gestire le origini delle informazioni per Brand Concierge](./knowledge-sources/knowledge-sources.md).
+
 ### Configurare le abilità {#skills-configuration}
 
-Utilizza l&#39;interfaccia [!UICONTROL Skills Configuration] per modellare l&#39;esperienza del tuo istruttore configurando abilità come **Product Advisory**. Rispondi al questionario per fornire input che i consulenti Adobe utilizzeranno in seguito per una rapida progettazione. La configurazione delle abilità include diversi elementi chiave da considerare, ad esempio:
+Le abilità determinano cosa può fare un concierge per i visitatori, ad esempio **Product Advisory** per i consigli sui prodotti o **Site Advisory** per le domande generali sul marchio. Seleziona **[!UICONTROL Sfoglia abilità]** per visualizzare il catalogo delle abilità disponibile e attivare le abilità di cui il tuo concierge ha bisogno.
 
-* **Selettore abilità:** Puoi scegliere tra le abilità disponibili, ad esempio Product Advisory per la creazione di consigli sui prodotti.
-* **Questionario:** Verrà completata una serie di richieste per fornire informazioni sul prodotto, regole aziendali, parole chiave da evitare e connessioni di origine.
-* **Anteprima:** Puoi apportare modifiche in tempo reale e vedere come le tue regolazioni influiscono sulle risposte, con collegamenti alla pagina di anteprima.
-* **Abilita prenotazione riunioni:** Puoi consentire ai visitatori di pianificare riunioni direttamente con i rappresentanti aziendali.
+* **Catalogo competenze:** Scegli tra le competenze disponibili, ad esempio Site Advisory, Product Advisory e le competenze che supportano la prenotazione di riunioni o la chat in tempo reale con un rappresentante commerciale.
+* **Configurazione:** Per ogni abilità, impostarne il nome, la descrizione e gli intenti (frasi o argomenti dei trigger) che devono richiamarla.
+* **Integrazioni:** Allega l&#39;integrazione necessaria per eseguire il processo di un&#39;abilità oppure seleziona **[!UICONTROL Usa consigliato]** per fare in modo che il Compositore ne selezioni automaticamente uno.
+* **Anteprima:** verifica le modifiche immediatamente nell&#39;anteprima live.
 
 **Per configurare le abilità**
 
-1. Passa al tracciatore dell&#39;avanzamento nella home page, quindi fai clic su **[!UICONTROL Configura abilità]**.
-1. Seleziona un’abilità (ad esempio, Product Advisory).
-1. Rispondi alle domande sulla configurazione seguenti.
+1. Dal portinaio, seleziona **[!UICONTROL Esplora abilità]**.
+1. Seleziona un’abilità da attivare (ad esempio, Product Advisory).
+1. Imposta il nome, la descrizione e gli intenti dell’abilità.
+1. Allega l&#39;integrazione richiesta oppure seleziona **[!UICONTROL Usa consigliato]**.
+1. Seleziona **[!UICONTROL Salva]** e verifica la modifica nell&#39;anteprima live.
 
-   Gli esempi di domande includono: _Cosa deve sapere il consulente sui prodotti?_, _Quali regole aziendali devono essere seguite?_, _Quali parole chiave evitare?_
-
-1. Connetti [origini conoscenza](#knowledge-sources) pertinenti.
-1. Abilitare funzioni aggiuntive (prenotazione riunioni).
-1. Invia per l&#39;elaborazione.
+Per il catalogo completo delle competenze e delle integrazioni, consulta [Framework delle competenze e delle integrazioni](./skills-and-integrations.md).
 
 ### Espressione del brand {#brand-expression}
 
-Puoi utilizzare l&#39;interfaccia _[!UICONTROL Espressione marchio]_ per personalizzare la personalità e lo stile delle risposte del tuo portinaio. Puoi accedere a Espressione marchio dalle fasi di configurazione o attraverso la barra laterale di anteprima per le modifiche in corso.
+L’espressione del brand controlla la personalità e lo stile delle risposte del concierge. Viene creata automaticamente quando si crea un portinaio e successivamente è possibile accedervi dalle impostazioni Tone &amp; Voice del portinaio per le modifiche in corso.
 
-Con Brand Expression è possibile utilizzare cursori per personalizzare le impostazioni voce e tono del portinaio. È possibile scegliere tra le opzioni &quot;Amichevole&quot;, &quot;Professionale&quot; e &quot;Energetico&quot;. Inoltre, puoi configurare le lunghezze di risposta in base alle tue preferenze. Puoi impostare il tuo concierge in modo da restituire output brevi, medi o lunghi, a seconda della visione del tuo marchio.
+L’espressione del brand è impostata utilizzando attributi come formalità, calore, giocosità ed energia, anziché un singolo stile denominato. Puoi anche configurare la lunghezza della risposta (breve, media o lunga) in base alle preferenze del tuo marchio.
 
 **Personalizzare l&#39;espressione del brand**
 
-1. Nella home page fare clic su **[!UICONTROL Personalizza Espressione marchio]**.
-2. Quindi, configura la voce, il tono e la lunghezza di risposta preferita del tuo marchio.
+1. Dal portinaio, apri **[!UICONTROL Tono e voce]**.
+2. Regola formalità, calore, giocosità, energia e lunghezza di risposta preferita.
 3. Seleziona **[!UICONTROL Salva]** per assicurarti che le modifiche vengano applicate anche alle risposte future.
 
 ### Anteprima e test {#preview-and-test}
@@ -200,7 +201,7 @@ La scheda _[!UICONTROL Configurazioni]_ è una visualizzazione di riepilogo di s
 
 ## Operazioni possibili con Brand Concierge
 
-Scopri le funzionalità del cliente, le funzionalità aziendali e i casi d’uso per Brand Concierge.
+Scopri le funzioni del cliente, le funzionalità aziendali e i casi d’uso per Brand Concierge.
 
 ### Caratteristiche del cliente
 
@@ -242,7 +243,7 @@ Per fornire un’esperienza trasparente e affidabile, gli utenti di Adobe Brand 
 
 La tua divulgazione durante la conversazione deve comunicare chiaramente tre cose agli utenti finali.
 
-1. _La conversione utilizza IA generativa_
+1. _La conversazione utilizza IA generativa_
 
    Informa gli utenti che le risposte sono generate dall’intelligenza artificiale, in modo che possano capire che interagiscono con un sistema automatizzato.
 
