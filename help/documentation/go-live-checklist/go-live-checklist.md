@@ -2,9 +2,9 @@
 title: Elenco di controllo per la pubblicazione di un portinaio
 description: Utilizza questo elenco di controllo per verificare la fattibilità della consulenza prima di renderlo disponibile ai visitatori reali e per stabilire la cadenza operativa iniziale successiva all’avvio.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '460'
+source-wordcount: '387'
 ht-degree: 0%
 
 ---
@@ -13,10 +13,6 @@ ht-degree: 0%
 # Elenco di controllo per la pubblicazione di un portinaio
 
 Utilizza questo elenco di controllo per completare una revisione della fattibilità pre-lancio prima di rendere disponibile un concierge ai visitatori reali. L’elenco di controllo consolida i criteri di idoneità descritti nei flussi di lavoro origini delle conoscenze, gestione del concierge, valutazione e distribuzione.
-
->[!NOTE]
->
->Valuta la possibilità di pubblicare questo elenco di controllo come pagina autonoma. Una pagina indipendente può essere collegata direttamente dalle comunicazioni di lancio e referenziata indipendentemente dalla documentazione completa.
 
 ## Come utilizzare questo elenco di controllo
 
@@ -50,9 +46,3 @@ Completa ogni elemento prima del lancio e registra il proprietario o la prova pe
 
 - [ ] **L&#39;accesso ad Analytics è confermato.** Verifica che le parti interessate possano accedere alle analisi richieste.
 - [ ] **È stata stabilita una cadenza di revisione.** Stabilisci un processo ricorrente per la revisione delle trascrizioni delle conversazioni e l’aggiunta di nuove domande di valutazione man mano che emergono.
-
-## Prima di pubblicare questo elenco di controllo come requisito della versione
-
->[!IMPORTANT]
->
->Questo elenco di controllo è derivato dai flussi di lavoro descritti nella guida. Non è un gate di rilascio ufficiale, definito dal prodotto. Convalidalo in base ai criteri di rilascio definiti da Prodotto e Controllo qualità prima di pubblicarlo come requisito formale di pubblicazione.

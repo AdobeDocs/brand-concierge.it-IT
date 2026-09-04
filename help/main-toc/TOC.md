@@ -2,10 +2,10 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Esplora Adobe Brand Concierge
-source-git-commit: 13db0491c987a08492820ac216e20feb87f30e44
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 19%
+source-wordcount: '154'
+ht-degree: 16%
 
 ---
 
@@ -39,17 +39,17 @@ ht-degree: 19%
     + {hide-from-toc}[Aggiungi un utente al ruolo](../documentation/user-and-access-management/add-a-user-to-the-role.md)
     + {hide-from-toc}[Crea un ruolo](../documentation/user-and-access-management/create-a-role.md)
   + Origini conoscenza {#knowledge-sources}
-    + {hide-from-toc}[ks](../documentation/knowledge-sources/knowledge-sources.md)
+    + {hide-from-toc}[Crea e gestisci origini di conoscenza per Brand Concierge](../documentation/knowledge-sources/knowledge-sources.md)
   + Gestione dei portinai {#concierge-management}
-    + {hide-from-toc}[cm](../documentation/concierge-management/concierge-management.md)
+    + {hide-from-toc}[Gestione di un portinaio](../documentation/concierge-management/concierge-management.md)
   + Valutazione {#evaluation}
-    + {hide-from-toc}[e](../documentation/evaluation/evaluation.md)
+    + {hide-from-toc}[Valuta un portinaio](../documentation/evaluation/evaluation.md)
   + Distribuzione {#deployment}
-    + {hide-from-toc}[d](../documentation/deployment/deployment.md)
+    + {hide-from-toc}[Distribuire un portinaio](../documentation/deployment/deployment.md)
   + Elenco di controllo per la pubblicazione {#go-live-checklist}
-    + {hide-from-toc}[glc](../documentation/go-live-checklist/go-live-checklist.md)
+    + {hide-from-toc}[Elenco di controllo per la pubblicazione per un portinaio](../documentation/go-live-checklist/go-live-checklist.md)
   + Analytics {#analytics}
-    + {hide-from-toc}[a](../documentation/analytics/analytics.md)
+    + {hide-from-toc}[Analizzare le prestazioni del portinaio](../documentation/analytics/analytics.md)
 + Note sulla versione {#release-notes}
   + [Informazioni sulla versione corrente](../release-notes/current.md)
 + {hide-from-toc}[Demo per brand concierge - Video sul valore](../demo-videos/demo-for-brand-concierge-value-video.md)

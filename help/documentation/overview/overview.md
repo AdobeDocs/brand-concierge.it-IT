@@ -1,9 +1,9 @@
 ---
 title: Panoramica di Brand Concierge
 description: Scopri Brand Concierge, come si combinano i suoi componenti principali e il glossario dei termini chiave che incontrerai nell’interfaccia di Composer.
-source-git-commit: 3da67605a43e949046260651253bbe0f2f0215fc
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: '509'
 ht-degree: 1%
 
 ---
@@ -21,17 +21,17 @@ Un’implementazione di Brand Concierge include due parti principali:
 | **Esperienza visitatore** | La superficie rivolta al brand, ad esempio un sito web o un’app mobile, in cui i visitatori interagiscono con il concierge e ottengono risposte in tempo reale. |
 | **Compositore** | L’interfaccia per professionisti utilizzata per progettare esperienze di concierge e gestire concierge, integrazioni, configurazioni, valutazioni, distribuzione e analisi. |
 
-## Moduli di composizione trattati in questa guida
+## Moduli composizione
 
-All’interno di Compositore, i moduli principali (e dove sono trattati in questa guida) sono:
+All’interno di Compositore, i moduli principali sono:
 
-- Gestione utente (sezione 3)
-- Creazione e gestione di risorse di conoscenza, condivise tra le diverse conferenze (sezione 4)
-- Gestione dei portinai: integrazioni, competenze, istruzioni per il portinaio, voce e tono, stile visivo e componenti chat (sezione 5)
-- Valutazione (sezione 6)
-- Implementazione (sezione 7)
-- Elenco di controllo per il lancio (sezione 8)
-- Analytics (sezione 9)
+- [Gestione degli utenti e degli accessi](../user-and-access-management/add-a-user-to-the-org.md)
+- [Creazione e gestione dell&#39;origine della conoscenza](../knowledge-sources/knowledge-sources.md), condivisa tra le diverse conferenze
+- [Gestione dei portieri](../concierge-management/concierge-management.md): integrazioni, abilità, istruzioni di portineria, tono e voce, stile visivo e componenti chat
+- [Valutazione](../evaluation/evaluation.md)
+- [Distribuzione](../deployment/deployment.md)
+- [Elenco di controllo per la pubblicazione](../go-live-checklist/go-live-checklist.md)
+- [Analytics](../analytics/analytics.md)
 
 ## Come si connettono i pezzi
 
@@ -58,4 +58,4 @@ Questi termini vengono visualizzati nell&#39;interfaccia del Compositore.
 
 >[!NOTE]
 >
->In genere, gli addetti al marketing possono ignorare completamente la sezione 3, *Gestione degli utenti e degli accessi* (una volta completata da un utente IT) e iniziare dalla sezione 4, *Origini della conoscenza*. Ritorna alla sezione 3 solo quando si impostano nuovi compagni di squadra.
+>In genere, gli addetti al marketing possono ignorare completamente [Gestione degli utenti e degli accessi](../user-and-access-management/add-a-user-to-the-org.md) (una volta completata da un utente IT) e iniziare da [Sorgenti di conoscenza](../knowledge-sources/knowledge-sources.md). Torna alla gestione degli utenti e degli accessi solo durante la configurazione di nuovi team.

@@ -2,9 +2,9 @@
 title: Gestire un portinaio
 description: Scopri come creare un Brand Concierge da un sito web, configurarne integrazioni, abilità, istruzioni, tono e stile visivo e testarlo prima della distribuzione.
 toc: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '1967'
+source-wordcount: '1804'
 ht-degree: 0%
 
 ---
@@ -74,10 +74,10 @@ Seleziona **Sfoglia integrazioni** per visualizzare il catalogo delle integrazio
 |---|---|---|
 | Ricerca nella Knowledge Base | Cerca il contenuto del sito Web | Configurato automaticamente al momento della creazione del portinaio |
 | Contenuto Ricerca IA | Cerca nel contenuto di AEM Sites | Rilevante per i clienti di AEM Sites as a Cloud Service |
-| Catalogo prodotti | Visualizza le schede prodotto o i collegamenti da un elenco di prodotti caricato | Destinato a cataloghi di piccole dimensioni non commerciali |
+| Collegamento entità | Risolve prodotti o menzioni dei brand nel messaggio di un visitatore in base a specifiche entità di catalogo | Integrazione di supporto, in genere utilizzata insieme a un’integrazione di ricerca anziché da sola |
 | MCP COMMERCE | Si connette a un catalogo Adobe Commerce live per la ricerca di prodotti, i dettagli dei prodotti e i confronti | Non abilitato per impostazione predefinita; richiede codici o chiavi dal team commerciale o IT |
-| Prenotazione riunione | Consente ai visitatori di prenotare una riunione con un rappresentante commerciale | Funzionalità B2B |
-| Chat live | Collega i visitatori con un rappresentante commerciale live | Funzionalità B2B |
+| Prenotazione riunione | Consente ai visitatori di prenotare una riunione con un rappresentante commerciale | Richiede l&#39;impostazione con il calendario di un rappresentante commerciale |
+| Chat live | Collega i visitatori con un rappresentante commerciale live | Richiede l&#39;installazione con la disponibilità di un rappresentante commerciale |
 
 ### Attivare e configurare un’integrazione
 
@@ -96,14 +96,6 @@ Seleziona **Sfoglia integrazioni** per visualizzare il catalogo delle integrazio
 
 È possibile aggiungere più istanze della stessa integrazione, ad esempio istanze che puntano a origini di conoscenza diverse. È possibile configurare un’abilità per utilizzare un’istanza di integrazione specifica.
 
-### Informazioni sull’integrazione da confermare
-
-I seguenti dettagli non sono stati stabiliti nel materiale di base e devono essere confermati prima della pubblicazione come documentazione del prodotto:
-
-- URL completo di produzione per l&#39;accesso a `experienceplatform.adobe.com`.
-- Se un portinaio ha un limite al numero di istanze di integrazione.
-- La roadmap e il processo per integrazioni personalizzate o personalizzate, che sono state menzionate come pianificate ma non dettagliate.
-
 ## Configurare le abilità
 
 Le abilità determinano cosa può fare un concierge per i visitatori. Seleziona **Sfoglia abilità** per visualizzare il catalogo delle abilità disponibile.
@@ -111,6 +103,7 @@ Le abilità determinano cosa può fare un concierge per i visitatori. Seleziona 
 | Competenza | Scopo | Integrazione o configurazione richiesta |
 |---|---|---|
 | Consulenza sito | Risposte alle domande generali sul marchio, tra cui domande frequenti, criteri, prezzi, guide pratiche e argomenti di supporto | Contenuto del sito web; attivo per impostazione predefinita |
+| Product Advisory | Aiuta i visitatori a scoprire e ricercare prodotti attraverso schede dei prodotti basate sul nome e domande sui prodotti | Ricerca nella knowledge base, collegamento entità |
 | Individuazione catalogo Adobe Commerce | Cerca, sfoglia, filtra e recupera i dettagli dei prodotti da un catalogo live | Integrazione Commerce MCP |
 | Confronto tra i prodotti Adobe Commerce | Fornisce un confronto affiancato di prodotti denominati | Integrazione Commerce MCP |
 | Prenota riunione con il reparto vendite | Suggerisce e facilita la prenotazione di una riunione | Integrazione prenotazione riunioni |
@@ -131,10 +124,6 @@ Le abilità determinano cosa può fare un concierge per i visitatori. Seleziona 
 >[!TIP]
 >
 >Se due abilità possono rispondere alla stessa domanda, l&#39;instradamento può diventare incoerente. Mantieni i trigger delle abilità distinti e specifici invece di utilizzare intenti sovrapposti.
-
-### Informazioni personalizzate sulle abilità che richiedono conferma
-
-Il materiale sorgente cita una funzionalità pianificata per la creazione di competenze completamente personalizzate, ma non fornisce una roadmap o un processo. Prima di documentare questa funzionalità come supportata, conferma la disponibilità e i passaggi di authoring.
 
 ## Aggiungi istruzioni per il portinaio
 
@@ -191,7 +180,7 @@ I componenti Chat controllano i singoli elementi visualizzati dai visitatori nel
 | Feedback | Il controllo della valutazione thumbs-up o thumbs-down mostrato dopo ogni risposta |
 | Scheda prodotto | Layout e stile delle schede dei prodotti, inclusi colori e pulsanti |
 
-## Configurare le funzionalità B2B
+## Configurare la prenotazione di riunioni e la chat in tempo reale
 
 Meeting Booking e Live Chat consentono ai visitatori di prenotare riunioni con i rappresentanti commerciali o di avviare una chat in tempo reale con un rappresentante. Queste funzionalità si basano su un prodotto correlato denominato Sales Qualifier.
 
@@ -233,14 +222,6 @@ Quando le funzionalità sono attive:
 - In Analytics è disponibile un report sulle prestazioni delle riunioni.
 - Gli impegni per riunioni e chat vengono inviati a Marketo come attività, insieme ai dati delle attività esistenti.
 
-### Informazioni B2B che richiedono conferma
-
-Il materiale di origine identifica i seguenti elementi come non risolti:
-
-- La chat in diretta non dispone di una propria dashboard di analisi; questa situazione è stata descritta come una lacuna di prodotto in corso anziché come una lacuna nella documentazione.
-- Percorso di accesso `experienceplatform.adobe.com` esatto per Sales Qualifier.
-- Se Meeting Booking e Live Chat richiedono licenze o autorizzazioni separate.
-
 ## Condividere un collegamento di anteprima
 
 Un collegamento di anteprima condivisibile consente alle parti interessate di rivedere e interagire con un portinaio senza accesso come compositore e senza distribuire il portinaio in un sito web live.
@@ -250,14 +231,6 @@ Un collegamento di anteprima condivisibile consente alle parti interessate di ri
 1. Condividi il collegamento con i revisori.
 
 1. I revisori possono interagire con il concierge attraverso il collegamento senza accedere a Composer.
-
-### Informazioni sul collegamento di anteprima che richiedono conferma
-
-Conferma i seguenti dettagli prima di pubblicare questa procedura come flusso di lavoro del prodotto completo:
-
-- La posizione e l’etichetta esatte dell’azione di condivisione nell’interfaccia utente.
-- Indica se i collegamenti di anteprima scadono o possono essere revocati.
-- Se l’utilizzo dei collegamenti di anteprima viene tracciato separatamente dalle analisi live.
 
 ## Test prima della distribuzione
 

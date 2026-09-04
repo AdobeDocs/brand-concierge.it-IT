@@ -2,9 +2,9 @@
 title: Creazione e gestione di origini di conoscenza per Brand Concierge
 description: Scopri come creare AEM Sites, collegamenti a siti web e origini di conoscenza del catalogo dei prodotti per Brand Concierge, monitorare lo stato di elaborazione e risolvere i problemi di scansiona.
 hide: true
-source-git-commit: da4b30fa292b911987aebec378af420b293ea594
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '864'
+source-wordcount: '867'
 ht-degree: 1%
 
 ---
@@ -22,6 +22,8 @@ Un concierge risponde alle domande utilizzando solo le origini di conoscenza con
 
 ## Scegli un&#39;origine di conoscenza
 
+Brand Concierge supporta i seguenti tipi di origini informazioni:
+
 | Sorgente della conoscenza | Utilizzala quando | Funzionalità principale |
 | --- | --- | --- |
 | AEM Sites (indice IA per la gestione dei contenuti) | Il cliente utilizza AEM Sites as a Cloud Service con IA per la gestione dei contenuti abilitata. | Utilizza un indice IA per la gestione dei contenuti esistente e rende disponibili i contenuti aggiornati di AEM Sites senza un passaggio di scansiona o aggiornamento separato. |
@@ -30,7 +32,7 @@ Un concierge risponde alle domande utilizzando solo le origini di conoscenza con
 
 >[!IMPORTANT]
 >
->Il materiale di base sottolinea che i clienti che vendono tramite Adobe Commerce con un catalogo di grandi dimensioni devono utilizzare l’integrazione MCP di Commerce. I dettagli su tale integrazione esulano dall’ambito di questo articolo.
+>I clienti che vendono tramite Adobe Commerce con un catalogo di grandi dimensioni devono utilizzare l’integrazione Commerce MCP. I dettagli su tale integrazione esulano dall’ambito di questo articolo.
 
 ## Creare un’origine delle conoscenze AEM Sites
 

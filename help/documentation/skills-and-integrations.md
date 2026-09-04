@@ -3,9 +3,9 @@ title: Framework competenze e integrazioni
 description: Scopri come le abilità e le integrazioni funzionano insieme nel framework di consulenza. Le abilità definiscono il comportamento, mentre le integrazioni si connettono ai dati e forniscono funzionalità.
 role: User, Admin
 level: Beginner
-source-git-commit: 16136f0d5470a39cbf260f4b1eadc6918d0212b4
+source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
 workflow-type: tm+mt
-source-wordcount: '1619'
+source-wordcount: '1698'
 ht-degree: 0%
 
 ---
@@ -64,27 +64,31 @@ Un’integrazione fornisce capacità ma non esercita alcun giudizio. Aspetta di 
 
 ## Integrazioni disponibili e pronte all’uso
 
-Di seguito sono riportate le quattro integrazioni mostrate nel pannello **Sfoglia integrazioni** di Composer.
+Di seguito sono riportate le integrazioni mostrate nel pannello **Sfoglia integrazioni** di Composer.
 
 | Integrazione | Funzionamento | Note |
 | --- | --- | --- |
 | Ricerca nella Knowledge Base | Source per informazioni sui prodotti, prezzi, funzioni e documentazione di un brand, compilate tramite la scansiona sul sito | Questo viene creato automaticamente al momento della creazione del portinaio, popolato dalla scansiona del sito |
 | Contenuto Ricerca IA | Cerca il contenuto del brand tramite IA per la gestione dei contenuti | Origine di contenuto alternativa; in genere è necessaria solo una Ricerca IA per volta nella Knowledge Base Search o Content |
-| Collegamento entità/Mappatura catalogo prodotti | Risolve prodotti o menzioni dei brand nel messaggio di un utente in entità catalogo specifiche | Integrazione di supporto, utilizzata insieme a un’integrazione di ricerca anziché da sola |
+| Collegamento entità | Risolve prodotti o menzioni dei brand nel messaggio di un utente in entità catalogo specifiche | Integrazione di supporto, utilizzata insieme a un’integrazione di ricerca anziché da sola |
 | MCP COMMERCE | Server MCP Commerce gestito da Adobe: ricerca di prodotti, dettagli, varianti e individuazione di facet/attributi, con supporto da Adobe Live Search | Non nella linea di base; aggiunta manuale per i casi d’uso di Commerce |
+| Prenotazione riunione | Consente ai visitatori di prenotare una riunione con un rappresentante commerciale | Richiede la configurazione con il calendario di un rappresentante commerciale, attraverso il prodotto Sales Qualifier correlato |
+| Chat live | Collega i visitatori con un rappresentante commerciale live | Richiede la configurazione con la disponibilità di un rappresentante commerciale, attraverso il prodotto Sales Qualifier correlato |
 
 ![Esplora il pannello integrazioni che mostra quattro schede di integrazione: Ricerca IA del contenuto, Collegamento entità, Ricerca nella Knowledge Base e Commerce MCP](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}
 
 ## Abilità disponibili pronte all’uso
 
-Quattro abilità vengono spedite nel catalogo. Ciascuno elenca le sue integrazioni consigliate.
+Di seguito sono riportate le abilità mostrate nel pannello **Sfoglia abilità** del Compositore. Ciascuno elenca le sue integrazioni consigliate.
 
-| Abilità | A cosa serve | Integrazioni consigliate |
+| Competenza | A cosa serve | Integrazioni consigliate |
 | --- | --- | --- |
 | Consulenza sito | Domande generali sul marchio: criteri, domande frequenti, programmi, procedure guidate e supporto | Ricerca nella knowledge base, Ricerca IA dei contenuti e collegamento di entità |
-| Product Advisory | Scopri e cerca i prodotti: schede dei prodotti basate sul nome e domande sui prodotti in prosa | Ricerca nella knowledge base, collegamento entità/mappatura catalogo |
+| Product Advisory | Scopri e cerca i prodotti: schede dei prodotti basate sul nome e domande sui prodotti in prosa | Ricerca nella knowledge base, collegamento entità |
 | Individuazione catalogo Adobe Commerce | Cerca, sfoglia, filtra e ottieni dettagli completi sui prodotti rispetto a un catalogo live | Strumenti MCP di Commerce: cerca prodotti Commerce, dettagli sul prodotto, varianti di prodotto, facet di prodotto e attributi ricercabili |
 | Confronto tra i prodotti Adobe Commerce | Confronto affiancato di due o più prodotti denominati in una tabella per Commerce | Strumenti MCP di Commerce: Ricerca prodotti Commerce, Dettagli prodotto |
+| Prenota riunione con il reparto vendite | Suggerisce e facilita la prenotazione di una riunione con un rappresentante commerciale | Integrazione prenotazione riunioni |
+| Chat in tempo reale con le vendite | Suggerisce e facilita la trasmissione di chat in diretta a un rappresentante commerciale | Integrazione chat in diretta |
 
 Le due competenze di commerce sono funzionalità di sola lettura e dipendono dall’integrazione MCP di Commerce, che non fa parte della linea di base. In un concierge non-commerce, Site Advisory e Product Advisory vengono eseguiti contro la Knowledge Base Search creata automaticamente.
 
