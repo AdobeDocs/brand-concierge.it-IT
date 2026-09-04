@@ -2,7 +2,7 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Esplora Adobe Brand Concierge
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+source-git-commit: 9b0ec00c0816dba6ca30042491944c68f51d9caf
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 16%
@@ -28,28 +28,28 @@ ht-degree: 16%
 + Documentazione {#documentation}
   + [Aiuto di Brand Concierge](../documentation/overview.md)
   + [Riunioni](../documentation/meetings.md)
-  + {hide-from-toc}[Framework competenze e integrazioni](../documentation/skills-and-integrations.md)
+  + [Framework competenze e integrazioni](../documentation/skills-and-integrations.md)
   + [Guida per sviluppatori e personalizzazione](../documentation/developer-customization-guide.md)
   + [Domande frequenti](../documentation/brand-concierge-faq.md)
   + Panoramica {#overview}
-    + {hide-from-toc}[Panoramica di Brand Concierge](../documentation/overview/overview.md)
-    + {hide-from-toc}[Il tuo primo Brand Concierge](../documentation/overview/first-brand-concierge.md)
+    + [Panoramica di Brand Concierge](../documentation/overview/overview.md)
+    + [Il tuo primo Brand Concierge](../documentation/overview/first-brand-concierge.md)
   + Gestione degli utenti e degli accessi {#user-and-access-management}
-    + {hide-from-toc}[Aggiungere un utente all&#39;organizzazione](../documentation/user-and-access-management/add-a-user-to-the-org.md)
-    + {hide-from-toc}[Aggiungi un utente al ruolo](../documentation/user-and-access-management/add-a-user-to-the-role.md)
-    + {hide-from-toc}[Crea un ruolo](../documentation/user-and-access-management/create-a-role.md)
+    + [Aggiungere un utente all’organizzazione](../documentation/user-and-access-management/add-a-user-to-the-org.md)
+    + [Aggiungere un utente al ruolo](../documentation/user-and-access-management/add-a-user-to-the-role.md)
+    + [Creare un ruolo](../documentation/user-and-access-management/create-a-role.md)
   + Origini conoscenza {#knowledge-sources}
-    + {hide-from-toc}[Crea e gestisci origini di conoscenza per Brand Concierge](../documentation/knowledge-sources/knowledge-sources.md)
+    + [Creazione e gestione di origini di conoscenza per Brand Concierge](../documentation/knowledge-sources/knowledge-sources.md)
   + Gestione dei portinai {#concierge-management}
-    + {hide-from-toc}[Gestione di un portinaio](../documentation/concierge-management/concierge-management.md)
+    + [Gestire un portinaio](../documentation/concierge-management/concierge-management.md)
   + Valutazione {#evaluation}
-    + {hide-from-toc}[Valuta un portinaio](../documentation/evaluation/evaluation.md)
+    + [Valuta un portinaio](../documentation/evaluation/evaluation.md)
   + Distribuzione {#deployment}
-    + {hide-from-toc}[Distribuire un portinaio](../documentation/deployment/deployment.md)
+    + [Distribuire un portinaio](../documentation/deployment/deployment.md)
   + Elenco di controllo per la pubblicazione {#go-live-checklist}
-    + {hide-from-toc}[Elenco di controllo per la pubblicazione per un portinaio](../documentation/go-live-checklist/go-live-checklist.md)
+    + [Elenco di controllo per la pubblicazione di un portinaio](../documentation/go-live-checklist/go-live-checklist.md)
   + Analytics {#analytics}
-    + {hide-from-toc}[Analizzare le prestazioni del portinaio](../documentation/analytics/analytics.md)
+    + [Analizzare le prestazioni del concierge](../documentation/analytics/analytics.md)
 + Note sulla versione {#release-notes}
   + [Informazioni sulla versione corrente](../release-notes/current.md)
 + {hide-from-toc}[Demo per brand concierge - Video sul valore](../demo-videos/demo-for-brand-concierge-value-video.md)
