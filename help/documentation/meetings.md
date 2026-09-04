@@ -1,24 +1,20 @@
 ---
-title: Configurazione delle riunioni
-description: Scopri come impostare e configurare le riunioni in Adobe Brand Concierge.
+title: Impostare e configurare la prenotazione delle riunioni
+description: Scopri come configurare la prenotazione di riunioni in Adobe Brand Concierge, incluse le connessioni al calendario, la disponibilità, l’accesso dei membri e l’analisi delle prestazioni.
 level: Beginner
 role: User,Admin
 TQID: https://experienceleague.adobe.com/vfX6M2-ts7d2-AxKGjaP1Ygkk3FGSGRl4CHslcKYSXU
-product_v2:
-  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 1b1598dc2c6308ae38a2aeaf14576c9c55be5ba5
+product_v2: id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: fc5e30918271360ea2256b49d1c200fb3eda298b
 workflow-type: tm+mt
-source-wordcount: 329
+source-wordcount: 338
 ht-degree: 3%
 
 ---
 
-# Riunioni {#meetings}
+# Prenotazione riunione {#meetings}
 
 Scopri tutte le impostazioni della _riunione_ in Adobe Brand Concierge. Connetti il calendario, imposta la disponibilità, visualizza analisi e altro ancora.
 
@@ -34,7 +30,7 @@ Connettersi all&#39;account di Outlook o Google e determinare varie impostazioni
 
 1. Accedi a [Adobe Experience Platform](https://experience.adobe.com/){target="_blank"}.
 
-1. Selezionare **[!UICONTROL Qualificatore vendite]**.
+1. Seleziona **[!UICONTROL Sales Qualifier]**.
 
    ![Home page Adobe Experience Platform](assets/meetings-connect-1.png){width="800" zoomable="yes"}
 
