@@ -32,6 +32,6 @@ Le valutazioni indicano se il Brand Concierge di Adobe sta rispondendo correttam
 * Come eseguire una valutazione e rivedere il punteggio complessivo e le domande segnalate
 * Come confrontare la risposta effettiva del portinaio alla risposta prevista per ogni domanda segnalata
 
->[!VIDEO](https://video.tv.adobe.com/v/3502662)
+>[!VIDEO](https://video.tv.adobe.com/v/3502668?captions=ita)
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).
