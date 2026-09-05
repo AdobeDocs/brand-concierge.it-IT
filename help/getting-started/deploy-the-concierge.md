@@ -32,6 +32,6 @@ La distribuzione di Adobe Brand Concierge lo rende disponibile ai visitatori rea
 * Confronto tra l’installazione dei componenti e le opzioni di installazione a pagina intera per lo script
 * Come configurare le regole di superficie abbinando domini e percorsi (qualsiasi, inizia con, termina con, è uguale a)
 
->[!VIDEO](https://video.tv.adobe.com/v/3502969?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3502987?captions=ita&learn=on)
 
 Per la documentazione, consulta [Distribuire un portinaio](../documentation/deployment/deployment.md).
