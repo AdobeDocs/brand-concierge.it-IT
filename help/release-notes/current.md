@@ -2,9 +2,9 @@
 description: Note sulla versione corrente di Adobe Brand Concierge.
 title: Note sulla versione corrente
 feature: Release Information
-source-git-commit: 39d49289351c4e9a8b733e91daf8692df472031a
+source-git-commit: 35ce8a7b460e97336246293ad5e53ee83ead5108
 workflow-type: tm+mt
-source-wordcount: '752'
+source-wordcount: '1046'
 ht-degree: 0%
 
 ---
@@ -14,6 +14,26 @@ ht-degree: 0%
 Adobe Brand Concierge segue un modello di distribuzione continua, che consente ad Adobe di fornire nuove funzionalità, miglioramenti e correzioni su base continuativa.
 
 Tutte le funzioni sono generalmente disponibili, se non diversamente indicato.
+
+## agosto 2026 {#august-2026}
+
+* **Compositore 2.0**: la creazione del portiere viene riprogettata intorno a un singolo URL del sito Web. Il Compositore redige automaticamente un punto di partenza allineato al brand, che include l’espressione del brand, il profilo del brand, le istruzioni, i guardrail, una fonte di conoscenza e un’abilità linea di base, pronti per essere rivisti e pubblicati in pochi minuti senza che sia necessaria alcuna configurazione manuale per iniziare.
+
+* **Framework competenze e integrazioni**: le conferenze sono create da un catalogo self-service di competenze e integrazioni, individuabili e configurabili tramite Sfoglia abilità e Sfoglia integrazioni. Ciò include funzionalità nuove e rilasciate in precedenza, come Site Advisory, Product Advisory e funzioni di individuazione e confronto dei cataloghi Commerce.
+
+* **Personalizzazione del componente Stile visivo e chat**: personalizza i colori, i font, il messaggio di benvenuto e i singoli componenti di chat di un portiere, inclusi bolle di chat, suggerimenti di prompt, citazioni, controlli di feedback e schede prodotto, con le modifiche visualizzate in anteprima dal vivo.
+
+* **Più concierge per sandbox**: crea e gestisci più concierge all&#39;interno di una singola sandbox, ciascuna con configurazione indipendente.
+
+* **Eventi lato client e funzioni di callback**: registra un singolo callback per osservare in tempo reale gli eventi del ciclo di vita del client Web, le interazioni utente, le risposte, il feedback e gli errori, da utilizzare per l&#39;invio di dati di coinvolgimento a Adobe Analytics, Google Analytics o altri sistemi di terze parti.
+
+* **Supporto per portineria multilingue (disponibilità limitata)**: distribuire un portinaio in altre lingue insieme all&#39;inglese, con supporto convalidato per spagnolo e francese. Ogni lingua di destinazione viene eseguita come proprio concierge all’interno della stessa sandbox e viene automaticamente instradata dalla lingua della richiesta.
+
+* **Distribuzione: Datastream e configurazione della superficie**: configura un datastream per tenere traccia del coinvolgimento dei visitatori, quindi definisci le regole della superficie per controllare su quali pagine e domini viene visualizzato il portiere, utilizzando la corrispondenza del dominio e del percorso (qualsiasi, inizia con, termina con o esatta corrispondenza).
+
+## Giugno 2026 {#june-2026}
+
+* **Integrazione di Marketo**: le conversazioni dei visitatori, inclusa l&#39;acquisizione di lead in-chat, vengono trasmesse automaticamente in Marketo Engage come dati di attività nativi, disponibili per l&#39;utilizzo in campagne Smart sia in batch che attivate.
 
 ## Aprile 2026 {#april-2026}
 
