@@ -8,14 +8,14 @@ doc-type: Technical Video
 duration: 215
 last-substantial-update: 2026-09-14
 jira: KT-22594
-source-git-commit: 26c875494ae9f38fcddbd0a9779f6fa659db3683
+source-git-commit: e15924679ac2731ef367416160368459ef88167a
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 0%
 ---
 # Conversazione vocale
 
-Adobe Brand Concierge supporta una modalità di conversazione voce-voce viva-libera che consente ai clienti di parlare con il portinaio invece di digitare. Questo video illustra come attivare la modalità vocale, il rilevamento automatico del riconoscimento vocale rimuove la necessità di premere qualsiasi pulsante e come la voce si inserisce nell’esperienza multimodale completa del portinaio insieme alle risposte testuali e visive.
+Adobe Brand Concierge supporta una modalità di conversazione voce-voce viva-libera che consente ai clienti di parlare con il portinaio invece di digitare. Questo video spiega come attivare la modalità vocale, il rilevamento automatico del riconoscimento vocale elimina la necessità di premere qualsiasi pulsante e come la voce si inserisce nell’esperienza multimodale completa del portinaio insieme alle risposte testuali e visive.
 
 ## A chi serve questo video?
 
