@@ -1,5 +1,5 @@
 ---
-title: Misura la qualità e imposta guardrail - Video
+title: Misura qualità e imposta guardrail
 description: Scopri come creare una serie di domande d’oro e risposte ideali per misurare la qualità di Adobe Brand Concierge e definire guardrail per le domande sensibili dei visitatori.
 topic: Personalization,Integrations
 role: Developer
@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 174
 last-substantial-update: 2026-09-29
 jira: KT-22188
-source-git-commit: 4cc80eef685fbfc26adaf0b9c47f61e935d45882
+source-git-commit: cd3fb3664f1eb60cba7cae83b8539871b3dcfb72
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '166'
 ht-degree: 0%
 ---
 
@@ -31,7 +31,6 @@ Prima di lanciare Adobe Brand Concierge, è necessario un modo per misurare se o
 * Quante coppie domanda-risposta includere e quali categorie coprire
 * Perché gli esempi fuori ambito contano e come la portineria li rifiuta
 * Utilizzo di una prima bozza generata dall’intelligenza artificiale del set d’oro e ottimizzazione dello stesso
-* Definizione delle regole per la prenotazione di riunioni, il trasferimento in diretta, i prezzi, le richieste di rimborso legali e le menzioni dei concorrenti
 
 >[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
 
