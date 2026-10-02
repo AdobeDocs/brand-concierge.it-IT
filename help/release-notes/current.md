@@ -2,20 +2,21 @@
 description: Note sulla versione corrente di Adobe Brand Concierge.
 title: Note sulla versione corrente
 feature: Release Information
-source-git-commit: 35ce8a7b460e97336246293ad5e53ee83ead5108
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '1046'
 ht-degree: 0%
-
 ---
-
 # Informazioni sulla versione corrente {#current-release-notes}
 
 Adobe Brand Concierge segue un modello di distribuzione continua, che consente ad Adobe di fornire nuove funzionalità, miglioramenti e correzioni su base continuativa.
 
 Tutte le funzioni sono generalmente disponibili, se non diversamente indicato.
 
-## agosto 2026 {#august-2026}
+## Agosto 2026 {#august-2026}
 
 * **Compositore 2.0**: la creazione del portiere viene riprogettata intorno a un singolo URL del sito Web. Il Compositore redige automaticamente un punto di partenza allineato al brand, che include l’espressione del brand, il profilo del brand, le istruzioni, i guardrail, una fonte di conoscenza e un’abilità linea di base, pronti per essere rivisti e pubblicati in pochi minuti senza che sia necessaria alcuna configurazione manuale per iniziare.
 

@@ -6,19 +6,26 @@ role: User
 level: Beginner
 doc-type: Tutorial
 duration: 131
-last-substantial-update: 2026-08-07T00:00:00Z
+last-substantial-update: 2026-08-07T00:00:00.000Z
 jira: KT-22187
-source-git-commit: 18cce684f46091d2b3d48665213a7b60ecb203d3
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '133'
 ht-degree: 0%
-
 ---
-
 
 # Dare forma alla voce e al widget
 
-Il portinaio non dovrebbe sembrare un chatbot generico, dovrebbe sembrare il tuo marchio. In questo video puoi modellare due cose: il modo in cui il Brand Concierge Adobe parla e come si presenta e si comporta sul sito.
+Il portinaio non dovrebbe sembrare un chatbot generico, dovrebbe sembrare il tuo marchio. In questo video puoi modellare due cose: il modo in cui il Adobe Brand Concierge parla e come si presenta e si comporta sul sito.
 
 ## A chi serve questo video?
 
@@ -32,6 +39,6 @@ Il portinaio non dovrebbe sembrare un chatbot generico, dovrebbe sembrare il tuo
 * Scelte visive del widget: posizionamento, modalità di visualizzazione, colore e font
 * Denominazione dell&#39;assistente, scrittura del relativo saluto e scelta dei prompt iniziali
 
->[!VIDEO](https://video.tv.adobe.com/v/3496948/?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496942/?learn=on)
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).

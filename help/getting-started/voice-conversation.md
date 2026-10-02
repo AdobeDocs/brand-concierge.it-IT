@@ -6,16 +6,25 @@ role: User
 level: Beginner
 doc-type: Technical Video
 duration: 215
-last-substantial-update: 2026-09-14
+last-substantial-update: 2026-09-14T00:00:00.000Z
 jira: KT-22594
-source-git-commit: e15924679ac2731ef367416160368459ef88167a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '183'
 ht-degree: 0%
 ---
 # Conversazione vocale
 
-Adobe Brand Concierge supporta una modalità di conversazione voce-voce viva-libera che consente ai clienti di parlare con il portinaio invece di digitare. Questo video spiega come attivare la modalità vocale, il rilevamento automatico del riconoscimento vocale elimina la necessità di premere qualsiasi pulsante e come la voce si inserisce nell’esperienza multimodale completa del portinaio insieme alle risposte testuali e visive.
+Adobe Brand Concierge supporta una modalità di conversazione voce-voce vivavoce che consente ai clienti di parlare con il portinaio invece di digitare. Questo video spiega come attivare la modalità vocale, il rilevamento automatico del riconoscimento vocale elimina la necessità di premere qualsiasi pulsante e come la voce si inserisce nell’esperienza multimodale completa del portinaio insieme alle risposte testuali e visive.
 
 ## A chi serve questo video?
 
@@ -31,6 +40,6 @@ Adobe Brand Concierge supporta una modalità di conversazione voce-voce viva-lib
 * In che modo il portinaio rimane un’esperienza multimodale completa, restituendo comunque immagini, testo e collegamenti durante una conversazione vocale
 * Come spegnere la voce se non si desidera più
 
->[!VIDEO](https://video.tv.adobe.com/v/3503492?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).

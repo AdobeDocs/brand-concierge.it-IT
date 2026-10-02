@@ -1,13 +1,14 @@
 ---
 title: Creare e testare il primo Brand Concierge
 description: Crea un consulente, personalizza l’esperienza del brand, esegui valutazioni e condividi un collegamento di anteprima per il feedback delle parti interessate.
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 0%
-
 ---
-
 # Creare e testare il primo Brand Concierge
 
 Questo articolo illustra come creare un portinaio e prepararlo per la revisione, dalla configurazione iniziale fino alla condivisione per il feedback.

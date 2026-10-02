@@ -1,13 +1,14 @@
 ---
-title: Impostazioni Brand Concierge di Adobe
-description: Impostazioni di Adobe Brand Concierge.
-source-git-commit: b3307a9879e8b1f0166d7a15e3436cc76729b806
+title: Impostazioni Adobe Brand Concierge
+description: impostazioni Adobe Brand Concierge.
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '43'
 ht-degree: 0%
-
 ---
-
 
 # Documentazione di Brand Concierge
 
