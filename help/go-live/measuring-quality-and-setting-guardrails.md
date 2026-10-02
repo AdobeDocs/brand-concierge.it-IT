@@ -41,6 +41,6 @@ Prima di lanciare Adobe Brand Concierge, è necessario un modo per misurare se o
 * Perché gli esempi fuori ambito contano e come la portineria li rifiuta
 * Utilizzo di una prima bozza generata dall’intelligenza artificiale del set d’oro e ottimizzazione dello stesso
 
->[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503948/?captions=ita&learn=on)
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).

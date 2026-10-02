@@ -38,6 +38,6 @@ Adobe Brand Concierge può rispondere nella lingua selezionata al momento della 
 * Effetti della lingua di risposta selezionata sulle risposte e sulle schede dei prompt di avvio
 * Modalità di supporto delle risposte localizzate da parte delle origini di conoscenza importate, ad esempio i cataloghi e gli URL dei siti Web
 
->[!VIDEO](https://video.tv.adobe.com/v/3503888?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503894?captions=ita&learn=on)
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).

@@ -40,6 +40,6 @@ Adobe Brand Concierge supporta una modalità di conversazione voce-voce vivavoce
 * In che modo il portinaio rimane un’esperienza multimodale completa, restituendo comunque immagini, testo e collegamenti durante una conversazione vocale
 * Come spegnere la voce se non si desidera più
 
->[!VIDEO](https://video.tv.adobe.com/v/3503486?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503492?captions=ita&learn=on)
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).
