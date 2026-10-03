@@ -2,13 +2,14 @@
 title: Elenco di controllo per la pubblicazione di un portinaio
 description: Utilizza questo elenco di controllo per verificare la fattibilità della consulenza prima di renderlo disponibile ai visitatori reali e per stabilire la cadenza operativa iniziale successiva all’avvio.
 hide: true
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '387'
 ht-degree: 0%
-
 ---
-
 
 # Elenco di controllo per la pubblicazione di un portinaio
 

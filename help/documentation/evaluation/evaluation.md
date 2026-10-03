@@ -2,13 +2,14 @@
 title: Valuta un portinaio
 description: Scopri come creare set di valutazione ed eseguire valutazioni funzionali, fuori ambito e di salvaguardia per valutare l’accuratezza e la sicurezza delle risposte di un concierge.
 hide: true
-source-git-commit: fc22eb8e724437483e5d87283f46fb629a4e507c
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '632'
 ht-degree: 0%
-
 ---
-
 
 # Valuta un portinaio
 

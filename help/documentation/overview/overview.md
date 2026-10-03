@@ -1,13 +1,14 @@
 ---
 title: Panoramica di Brand Concierge
 description: Scopri Brand Concierge, come si combinano i suoi componenti principali e il glossario dei termini chiave che incontrerai nell’interfaccia di Composer.
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '509'
 ht-degree: 1%
-
 ---
-
 # Panoramica di Brand Concierge
 
 Brand Concierge è una piattaforma dinamica che consente alle aziende e ai marchi di lanciare esperienze conversazionali personalizzate sulle superfici rivolte ai clienti: siti web, app mobili e altre proprietà digitali. Ogni conversazione si basa sui contenuti e sulle protezioni del brand, e le integrazioni permettono alle informazioni di tali conversazioni di fluire nel resto dell’ecosistema del brand, come Marketo Engage.

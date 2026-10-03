@@ -2,13 +2,14 @@
 title: Creazione e gestione di origini di conoscenza per Brand Concierge
 description: Scopri come creare AEM Sites, collegamenti a siti web e origini di conoscenza del catalogo dei prodotti per Brand Concierge, monitorare lo stato di elaborazione e risolvere i problemi di scansiona.
 hide: true
-source-git-commit: 3f05cb0dd8c11620b0ed7e254d0f4f9b24408b08
+product_v2:
+  - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
+source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
 workflow-type: tm+mt
 source-wordcount: '856'
 ht-degree: 1%
-
 ---
-
 
 # Creazione e gestione di origini di conoscenza per Brand Concierge
 
@@ -92,7 +93,7 @@ Ogni origine dati visualizza uno stato di elaborazione.
 | --- | --- |
 | In corso | L&#39;origine della conoscenza è in fase di elaborazione. |
 | Completato | L&#39;origine delle informazioni è completamente elaborata e pronta per l&#39;uso. |
-| Pianificato | L&#39;origine della conoscenza verrà elaborata in un orario pianificato futuro. |
+| Pianificate | L&#39;origine della conoscenza verrà elaborata in un orario pianificato futuro. |
 | Completato parzialmente | Alcune pagine sono state elaborate correttamente e altre non sono riuscite. |
 
 La pagina dei dettagli dell&#39;origine dati fornisce informazioni quali:
