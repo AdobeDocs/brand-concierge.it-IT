@@ -35,7 +35,7 @@ Prima di lanciare Adobe Brand Concierge, verifica i contenuti, la configurazione
 * Ottieni l’approvazione delle parti interessate e conferma la preparazione tecnica con le risorse Adobe quando sono coinvolte.
 * Pianifica un rollout graduale, che avanza solo quando i risultati supportano la fase successiva.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504106/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504112/?captions=ita&learn=on)
 
 Inizia con i colleghi interni e testa flussi completi end-to-end. Considera quindi un rollout iniziale ridotto, ad esempio il 5% delle pagine di destinazione, prima di espanderlo al 25%, 50% e infine al 100%. Queste sono fasi di esempio, non una pianificazione fissa. Continua a monitorare tramite la dashboard di analisi almeno una volta alla settimana dopo il rollout completo.
 
