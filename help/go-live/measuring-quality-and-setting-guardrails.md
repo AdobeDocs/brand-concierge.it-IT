@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '213'
 ht-degree: 0%
 ---
 
@@ -41,6 +41,15 @@ Prima di lanciare Adobe Brand Concierge, è necessario un modo per misurare se o
 * Perché gli esempi fuori ambito contano e come la portineria li rifiuta
 * Utilizzo di una prima bozza generata dall’intelligenza artificiale del set d’oro e ottimizzazione dello stesso
 
->[!VIDEO](https://video.tv.adobe.com/v/3503948/?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503942/?learn=on)
+
+## Tutorial correlati
+
+* [Benvenuto nel percorso di pubblicazione](welcome.md)
+* [Dare forma alla voce e al widget](voice-and-visuals.md)
+* [Preparazione del contenuto e del percorso di visitatori](content-and-journey.md)
+* [Configurazione tecnica e funzioni opzionali](technical-setup-and-optional-features.md)
+* [Elenco di controllo e piano di rollout precedenti alla pubblicazione](your-pre-go-live-checklist-and-rollout-plan.md)
+* [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).
