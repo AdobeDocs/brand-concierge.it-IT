@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 269
 last-substantial-update: 2026-10-05
 jira: KT-22190
-source-git-commit: 024fc10eacb22a8292e51891458fc57253455afc
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '254'
+source-wordcount: '298'
 ht-degree: 0%
 ---
 
@@ -35,8 +35,17 @@ Prima di lanciare Adobe Brand Concierge, verifica i contenuti, la configurazione
 * Ottieni l’approvazione delle parti interessate e conferma la preparazione tecnica con le risorse Adobe quando sono coinvolte.
 * Pianifica un rollout graduale, che avanza solo quando i risultati supportano la fase successiva.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504106/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504112/?captions=ita&learn=on)
 
 Inizia con i colleghi interni e testa flussi completi end-to-end. Considera quindi un rollout iniziale ridotto, ad esempio il 5% delle pagine di destinazione, prima di espanderlo al 25%, 50% e infine al 100%. Queste sono fasi di esempio, non una pianificazione fissa. Continua a monitorare tramite la dashboard di analisi almeno una volta alla settimana dopo il rollout completo.
+
+## Tutorial correlati
+
+* [Benvenuto nel percorso di pubblicazione](welcome.md)
+* [Dare forma alla voce e al widget](voice-and-visuals.md)
+* [Preparazione del contenuto e del percorso di visitatori](content-and-journey.md)
+* [Misurazione della qualità e impostazione dei guardrail](measuring-quality-and-setting-guardrails.md)
+* [Configurazione tecnica e funzioni opzionali](technical-setup-and-optional-features.md)
+* [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).

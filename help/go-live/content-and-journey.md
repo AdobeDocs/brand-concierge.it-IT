@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
 workflow-type: tm+mt
-source-wordcount: '150'
+source-wordcount: '185'
 ht-degree: 0%
 ---
 
@@ -41,9 +41,14 @@ Adobe Brand Concierge può rispondere solo alle domande e al contenuto fornito. 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3496013/?captions=ita&learn=on)
 
-## Video correlati in questa serie
+## Tutorial correlati
 
 * [Benvenuto nel percorso di pubblicazione](welcome.md)
+* [Dare forma alla voce e al widget](voice-and-visuals.md)
+* [Misurazione della qualità e impostazione dei guardrail](measuring-quality-and-setting-guardrails.md)
+* [Configurazione tecnica e funzioni opzionali](technical-setup-and-optional-features.md)
+* [Elenco di controllo e piano di rollout precedenti alla pubblicazione](your-pre-go-live-checklist-and-rollout-plan.md)
+* [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 ## Documentazione
 
