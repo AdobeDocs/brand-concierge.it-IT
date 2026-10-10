@@ -48,6 +48,6 @@ Il portinaio non dovrebbe sembrare un chatbot generico, dovrebbe sembrare il tuo
 * [Misurazione della qualità e impostazione dei guardrail](measuring-quality-and-setting-guardrails.md)
 * [Configurazione tecnica e funzioni opzionali](technical-setup-and-optional-features.md)
 * [Elenco di controllo e piano di rollout precedenti alla pubblicazione](your-pre-go-live-checklist-and-rollout-plan.md)
-* [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+* [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/it/playlists/brand-concierge-go-live-checklist)
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).
