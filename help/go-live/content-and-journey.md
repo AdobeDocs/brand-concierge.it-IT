@@ -48,7 +48,7 @@ Adobe Brand Concierge può rispondere solo alle domande e al contenuto fornito. 
 * [Misurazione della qualità e impostazione dei guardrail](measuring-quality-and-setting-guardrails.md)
 * [Configurazione tecnica e funzioni opzionali](technical-setup-and-optional-features.md)
 * [Elenco di controllo e piano di rollout precedenti alla pubblicazione](your-pre-go-live-checklist-and-rollout-plan.md)
-* [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+* [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/it/playlists/brand-concierge-go-live-checklist)
 
 ## Documentazione
 
