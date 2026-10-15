@@ -5,12 +5,12 @@ topic: Data Distiller
 role: Developer
 level: Intermediate
 doc-type: Tutorial
-duration: 173
+duration: 175
 last-substantial-update: 2026-10-14
 jira: KT-22743
-source-git-commit: e0e9e4ba50fdc3af00f603a44188cc845d656306
+source-git-commit: 0d9fa76d0fe3494daa7189ab9e9984a423ee1d6e
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '189'
 ht-degree: 0%
 ---
 # Esportazione di conversazioni tramite Adobe CX Enterprise Coworker
@@ -35,3 +35,7 @@ Scopri come salvare ed esportare conversazioni Adobe Brand Concierge utilizzando
 > Se Data Distiller non è disponibile nella tua organizzazione, Collaboratore non può creare il download CSV mostrato in questo video.
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).
+
+## Tutorial correlati
+
+* [Esportazione di conversazioni tramite servizio query e terminale](exporting-conversations-using-query-service-and-terminal.md)
