@@ -1,6 +1,6 @@
 ---
-title: Abilitare le conversazioni vocali in Brand Concierge
-description: Descrizione
+title: Abilita conversazioni vocali
+description: Abilitare la modalità dettatura e voce in Brand Concierge per consentire ai visitatori di parlare in vivavoce e di ottenere comunque testo, immagini e collegamenti nelle risposte del concierge.
 role: User, Admin
 level: Beginner
 product_v2:
@@ -14,54 +14,55 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: d0018106bf63c9c98c90c6e0497ed83439bf3026
+source-git-commit: 26648a7597148a5a463c2ae695598a5558ad8f48
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: '320'
 ht-degree: 0%
 ---
-# Abilitare le conversazioni vocali in Brand Concierge
+# Abilita conversazioni vocali
 
-Configurare l&#39;input vocale e le risposte vocali per un Brand Concierge. È possibile abilitare entrambe le funzionalità in modo indipendente o attivare entrambe per una conversazione vocale.
+Le conversazioni vocali in Adobe Brand Concierge consentono ai visitatori di parlare con un portinaio invece di digitare. La voce supporta le interazioni vivavoce e mantiene l’esperienza multimodale, in modo che il concierge possa ancora fornire testo, immagini e collegamenti.
 
 ## Come abilitare la voce
 
-1. Nella schermata **Home**, in **Tuoi Concierge**, seleziona il Concierge desiderato.
+1. Nella schermata **Home**, in **Tuoi concierge**, seleziona il concierge che desideri modificare.
 
-   SCHERMATA
+   ![Schermata iniziale di Brand Concierge con la scheda di concierge Adobe evidenziata sotto I tuoi concierge](assets/voice-conversations-1.png){width="800" zoomable="yes"}
 
-2. Selezionare la scheda **Progettazione**.
-3. Nel menu a sinistra, selezionare **Voce**.
-4. Nel pannello Voce, attivate le opzioni necessarie:
-   - **Dettatura** — trascrive in testo ciò che l&#39;utente dice.
-   - **Modalità vocale** - Legge le risposte del portinaio ad alta voce.
-5. Selezionare **Salva** nella parte inferiore del pannello Voce. **Salva** non è disponibile finché non modifichi un&#39;impostazione.
+1. Nella scheda **Progettazione**, selezionare **Voce**.
 
-Entrambe le opzioni sono disattivate per impostazione predefinita. Abilita sia per le risposte parlate che per quelle parlate.
+   ![Scheda Progettazione di una conferenza con l&#39;opzione Voce evidenziata nel pannello a sinistra in Espressione marchio](assets/voice-conversations-2.png){width="800" zoomable="yes"}
 
-ALTRA VERSIONE
+   >[!NOTE]
+   >
+   >La prima volta che abiliti la funzione vocale, devi consultare l&#39;informativa sulla privacy prima di continuare.
 
-## Abilitare e utilizzare le conversazioni vocali in Adobe Brand Concierge
+1. Nel pannello _Voce_, abilita le opzioni desiderate, quindi seleziona **Salva**.
+   - **Dettatura**: trascrive in testo ciò che dicono i visitatori.
+   - **Modalità vocale**: legge le risposte del portinaio ad alta voce.
 
-Le conversazioni vocali Adobe Brand Concierge consentono ai visitatori di parlare con un portinaio invece di digitare. La modalità vocale supporta interazioni in viva voce mantenendo al tempo stesso l’esperienza multimodale: il portinaio può ancora fornire testo, immagini e collegamenti.
+   ![Pannello vocale con le opzioni dettatura e modalità vocale attivate e il pulsante Salva nella parte inferiore](assets/voice-conversations-3.png)
 
-## Abilita modalità voce
+   >[!NOTE]
+   >
+   >I controlli disponibili possono variare a seconda della configurazione del portinaio.
 
-1. Apri Gestione portineria e seleziona la portineria da configurare.
-2. Attiva **Modalità vocale**.
-3. La prima volta che si utilizza la voce, controlla l’informativa sulla privacy mostrata nell’esperienza prima di continuare.
+## Esperienza del visitatore
 
-I controlli specifici disponibili possono dipendere dalla configurazione del portinaio.
+### I visitatori possono parlare in modo naturale
 
-## Avvia una conversazione vocale
+Dopo aver abilitato la voce, i visitatori possono parlare naturalmente al portinaio. Il rilevamento automatico del riconoscimento vocale si avvia e smette di ascoltare, pertanto i visitatori non devono selezionare un pulsante per ogni turno.
 
-Dopo aver abilitato la modalità vocale, rivolgiti al portinaio in modo naturale. Il rilevamento automatico del riconoscimento vocale avvia e interrompe l&#39;ascolto senza richiedere di premere un pulsante per ogni turno.
+I visitatori possono anche interrompere il concierge mentre sta parlando, quindi non devono aspettare che la risposta finisca.
 
-Puoi continuare la conversazione con le domande successive. Le conversazioni vocali supportano anche interruzioni naturali mentre il portinaio sta parlando, in modo da poter parlare di nuovo piuttosto che aspettare che la risposta finisca.
+### Risposte testuali e visive
 
-## Ottenere risposte testuali e visive
+La voce non limita la portineria all&#39;audio. Durante una conversazione vocale, il portinaio può comunque restituire testo, immagini e collegamenti come parte della sua risposta.
 
-La modalità voce non limita la portineria all&#39;audio. Durante una conversazione vocale, il portinaio può comunque restituire testo, immagini e collegamenti come parte della sua risposta.
+## Come disattivare la voce
 
-## Disattiva modalità voce
+1. Nella schermata **Home**, in **Tuoi concierge**, seleziona il concierge che desideri modificare.
 
-Se non si desidera più la voce per l&#39;esperienza di concierge, disattivare **Modalità voce** nella gestione di concierge.
+1. Nella scheda **Progettazione**, selezionare **Voce**.
+
+1. Nel pannello _Voce_, disattivare le opzioni che si desidera disattivare, quindi selezionare **Salva**.
