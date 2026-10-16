@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 26648a7597148a5a463c2ae695598a5558ad8f48
+source-git-commit: 4a54cf90e8233e86cabf9329a78cb10f35a630f6
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '324'
 ht-degree: 0%
 ---
 # Abilita conversazioni vocali
@@ -25,13 +25,13 @@ Le conversazioni vocali in Adobe Brand Concierge consentono ai visitatori di par
 
 ## Come abilitare la voce
 
-1. Nella schermata **Home**, in **Tuoi concierge**, seleziona il concierge che desideri modificare.
+1. Nella schermata **Home**, in **Tuoi concierge**, seleziona il concierge in cui desideri abilitare la voce.
 
-   ![Schermata iniziale di Brand Concierge con la scheda di concierge Adobe evidenziata sotto I tuoi concierge](assets/voice-conversations-1.png){width="800" zoomable="yes"}
+   ![Schermata iniziale di Brand Concierge con la scheda di concierge Adobe evidenziata sotto I tuoi concierge](assets/voice-conversations-1.png){width="600" zoomable="yes"}
 
 1. Nella scheda **Progettazione**, selezionare **Voce**.
 
-   ![Scheda Progettazione di una conferenza con l&#39;opzione Voce evidenziata nel pannello a sinistra in Espressione marchio](assets/voice-conversations-2.png){width="800" zoomable="yes"}
+   ![Scheda Progettazione di una conferenza con l&#39;opzione Voce evidenziata nel pannello a sinistra in Espressione marchio](assets/voice-conversations-2.png){width="600" zoomable="yes"}
 
    >[!NOTE]
    >
@@ -61,7 +61,7 @@ La voce non limita la portineria all&#39;audio. Durante una conversazione vocale
 
 ## Come disattivare la voce
 
-1. Nella schermata **Home**, in **Tuoi concierge**, seleziona il concierge che desideri modificare.
+1. Nella schermata **Home**, in **Tuoi concierge**, seleziona il concierge in cui vuoi disabilitare la voce.
 
 1. Nella scheda **Progettazione**, selezionare **Voce**.
 
