@@ -28,7 +28,7 @@ Scopri come salvare ed esportare conversazioni Adobe Brand Concierge utilizzando
 * Scopri perché Data Distiller è necessario per il download CSV mostrato nel video
 * Segui le politiche di gestione dei dati della tua organizzazione quando archivi esportazioni che possono contenere informazioni personali (PII, personally identifiable information)
 
->[!VIDEO](https://video.tv.adobe.com/v/3504546)
+>[!VIDEO](https://video.tv.adobe.com/v/3504552?captions=ita)
 
 >[!NOTE]
 >
