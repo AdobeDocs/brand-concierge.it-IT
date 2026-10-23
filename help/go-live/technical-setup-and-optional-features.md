@@ -41,7 +41,7 @@ Prepara il tuo sito web per Adobe Brand Concierge e scegli le funzioni opzionali
 * Abilitazione della chat in diretta con disponibilità di rappresentanti, attivatori di visitatori e fallback sulla prenotazione di una riunione
 * Connessione di Marketo Engage per ricevere lead e attività, con accesso amministratore e un flag di funzione
 
->[!VIDEO](https://video.tv.adobe.com/v/3504081/?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504075/?learn=on)
 
 ## Tutorial correlati
 
@@ -50,6 +50,6 @@ Prepara il tuo sito web per Adobe Brand Concierge e scegli le funzioni opzionali
 * [Preparazione del contenuto e del percorso di visitatori](content-and-journey.md)
 * [Misurazione della qualità e impostazione dei guardrail](measuring-quality-and-setting-guardrails.md)
 * [Elenco di controllo e piano di rollout precedenti alla pubblicazione](your-pre-go-live-checklist-and-rollout-plan.md)
-* [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/it/playlists/brand-concierge-go-live-checklist)
+* [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).
