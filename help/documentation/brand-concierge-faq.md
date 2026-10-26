@@ -6,24 +6,31 @@ level: Beginner
 TQID: https://experienceleague.adobe.com/R-s7wgJ5jtCXnBiLMVdW-6db7cTgSgaJwq4x6IlEJqY
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+    internal-label: Privacy
   - id: fd2e3797-f2ea-4b36-a9af-52acf5e90513
-source-git-commit: d23569d059a42297a92b339ecf92852fb3234033
+    internal-label: Customer profiles
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: 1958
+source-wordcount: '1980'
 ht-degree: 1%
-
 ---
-
 # Domande frequenti
 
 Leggi questa sezione per le risposte alle domande più frequenti su Brand Concierge.
@@ -141,7 +148,7 @@ Tutti i test vengono eseguiti prima della distribuzione ai clienti.
 
 ### I clienti possono programmare riunioni con il nostro team?
 
-Sì, i clienti possono pianificare riunioni con il team utilizzando l’abilità Prenotazione riunione. Per abilitare questa funzione, attiva l’abilità in Configurazione abilità, definisci gli intenti di attivazione (ad esempio, &quot;parla con le vendite&quot;), connetti il calendario o il sistema di pianificazione e imposta la disponibilità e i tipi di riunione. Una volta configurata, i clienti possono richiedere riunioni durante le conversazioni e Brand Concierge semplifica il processo di pianificazione senza richiedere loro di uscire dalla chat.
+Sì. I clienti possono pianificare riunioni con il tuo team o avviare una chat in diretta con un rappresentante, utilizzando l&#39;abilità **Trasferimento alle vendite** con le integrazioni **Prenotazione riunione** e **Chat in diretta**. I rappresentanti collegano il calendario e impostano la loro disponibilità in Adobe Marketo Qualifier, scegli il modo in cui i visitatori vengono indirizzati a loro, quindi attivi l’abilità in Compositore e definisci gli intenti che lo attivano. Una volta configurata, i clienti possono richiedere una riunione o una chat in tempo reale durante una conversazione senza uscire dalla chat. Consulta [Prenotazione chat e riunione in tempo reale](sales-handoff/overview.md).
 
 ### Come vengono generate le coppie domande e risposte iniziali nella knowledge base?
 

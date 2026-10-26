@@ -6,25 +6,33 @@ level: Beginner
 TQID: https://experienceleague.adobe.com/Ob3NAKyD929Ije-Y7UPO1hMfDYDi-UJ0gINpGlxiYGM
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
+    internal-label: Brand Concierge
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5520579-b31f-4df7-9281-f0d9f91e2edc
+    internal-label: Customer engagement
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+    internal-label: Measurement
   - id: df401a2a-327d-468c-a5e4-b7b7ccd071a0
+    internal-label: Data integration
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 60835c7971d86341194d773f9cf487c4cb6f171a
+    internal-label: Privacy
+source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
 workflow-type: tm+mt
-source-wordcount: 2047
+source-wordcount: '2051'
 ht-degree: 1%
-
 ---
-
 # Aiuto di Brand Concierge
 
 Scopri come configurare e utilizzare le funzioni chiave di Brand Concierge. Trova le risposte alle domande comuni su configurazione, integrazione dei dati, privacy, personalizzazione, misurazione delle prestazioni e requisiti tecnici.
@@ -116,7 +124,7 @@ Per l&#39;insieme completo dei tipi di origine delle informazioni e dei passaggi
 
 Le abilità determinano cosa può fare un concierge per i visitatori, ad esempio **Product Advisory** per i consigli sui prodotti o **Site Advisory** per le domande generali sul marchio. Seleziona **[!UICONTROL Sfoglia abilità]** per visualizzare il catalogo delle abilità disponibile e attivare le abilità di cui il tuo concierge ha bisogno.
 
-* **Catalogo competenze:** Scegli tra le competenze disponibili, ad esempio Site Advisory, Product Advisory e le competenze che supportano la prenotazione di riunioni o la chat in tempo reale con un rappresentante commerciale.
+* **Catalogo competenze:** Scegli tra le competenze disponibili, ad esempio Site Advisory, Product Advisory e [Handoff to sales](sales-handoff/overview.md), che offre ai visitatori una chat in diretta o una riunione con un rappresentante commerciale.
 * **Configurazione:** Per ogni abilità, impostarne il nome, la descrizione e gli intenti (frasi o argomenti dei trigger) che devono richiamarla.
 * **Integrazioni:** Allega l&#39;integrazione necessaria per eseguire il processo di un&#39;abilità oppure seleziona **[!UICONTROL Usa consigliato]** per fare in modo che il Compositore ne selezioni automaticamente uno.
 * **Anteprima:** verifica le modifiche immediatamente nell&#39;anteprima live.
@@ -237,7 +245,7 @@ Brand Concierge supporta casi di utilizzo B2C e B2B in diversi settori.
 
 ## Divulgazione di IA per conversazioni {#disclosure}
 
-Per fornire un’esperienza trasparente e affidabile, gli utenti di Adobe Brand Concierge sono responsabili dell’aggiunta di una breve divulgazione all’interno della loro esperienza di conversazione. Questa divulgazione aiuta gli utenti finali a capire come funziona la conversazione e come possono essere utilizzate le loro informazioni.
+Per offrire un’esperienza trasparente e affidabile, gli utenti di Adobe Brand Concierge sono responsabili di aggiungere una breve divulgazione all’interno della loro esperienza di conversazione. Questa divulgazione aiuta gli utenti finali a capire come funziona la conversazione e come possono essere utilizzate le loro informazioni.
 
 **Informazioni sulla divulgazione**
 

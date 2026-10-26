@@ -5,9 +5,9 @@ feature: Release Information
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
 workflow-type: tm+mt
-source-wordcount: '1046'
+source-wordcount: '1327'
 ht-degree: 0%
 ---
 # Informazioni sulla versione corrente {#current-release-notes}
@@ -15,6 +15,22 @@ ht-degree: 0%
 Adobe Brand Concierge segue un modello di distribuzione continua, che consente ad Adobe di fornire nuove funzionalità, miglioramenti e correzioni su base continuativa.
 
 Tutte le funzioni sono generalmente disponibili, se non diversamente indicato.
+
+## Ottobre 2026 {#october-2026}
+
+* **Punteggio di conversazione per la chat in diretta**: i rappresentanti commerciali valutano ogni chat in diretta prima di chiuderla, su una scala da 0 a 3 da quella meno qualificata a quella più qualificata. Il punteggio viene memorizzato nel record del lead ed è disponibile come vincolo sui filtri e sui trigger di Marketo Engage, in modo da poter stimolare il punteggio del lead, il retargeting, la personalizzazione e il passaggio di consegne CRM. Vedi [Punteggio della conversazione](../documentation/sales-handoff/chat-inbox.md#conversation-score).
+
+* **Attività Brand Concierge nel profilo Marketo Engage**: l&#39;impegno del portinaio viene scritto nel record della persona di Marketo come tre tipi di attività nativi: Coinvolgi con il portinaio, Pianifica riunione nel portinaio e Coinvolgi con la chat in diretta nel portinaio. Tutti e tre sono disponibili come attivatori e filtri negli elenchi avanzati, con vincoli quali il punteggio di conversazione, lo stato della riunione, il tipo di instradamento e il rappresentante commerciale. Vedi [Dati Brand Concierge in Marketo Engage](../documentation/sales-handoff/marketo-activities.md).
+
+* **Profilo Marketo completo nel pannello dei visitatori**: la casella in entrata della chat mostra il profilo del visitatore insieme alla conversazione, inclusi i dettagli condivisi nel modulo di pre-chat, in modo che i rappresentanti abbiano il contesto completo prima di rispondere.
+
+* **Notifiche di indirizzamento multicanale**: i rappresentanti ricevono notifiche sulle chat live in arrivo tra canali, pertanto le chat vengono selezionate più rapidamente.
+
+## Settembre 2026 {#september-2026}
+
+* **Prenotazione di chat e riunioni in tempo reale in Composer 2.0**: la prenotazione di chat e riunioni in tempo reale è disponibile come integrazione incorporata nel pannello Integrazioni di navigazione in Composer e il nuovo handoff per le competenze di vendita determina quando offrirle in base all&#39;intento del visitatore. Consulta [Attiva prenotazione chat e riunioni in tempo reale](../documentation/sales-handoff/configure-in-composer.md).
+
+* **Regole di indirizzamento personalizzate**: crea regole di indirizzamento sugli attributi del lead e della società di Marketo per inviare i visitatori al rappresentante giusto, utilizzando più gruppi di condizioni combinati con AND e OR, regole con priorità e più rappresentanti assegnati. Il routing personalizzato si applica sia alla prenotazione delle riunioni che alla chat in diretta. Consulta [Instradare le conversazioni ai rappresentanti](../documentation/sales-handoff/routing-rules.md).
 
 ## Agosto 2026 {#august-2026}
 
