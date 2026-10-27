@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 3ca4b47d82dc8992903da3f48062c5fb76c7e6be
+source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
 workflow-type: tm+mt
-source-wordcount: '1698'
+source-wordcount: '1705'
 ht-degree: 0%
 ---
 # Framework competenze e integrazioni {#skills-and-integrations}
@@ -25,7 +25,7 @@ Un’integrazione (precedentemente nota come strumento) è una connessione a un�
 
 Un’integrazione può essere utilizzata da molte abilità. Un’abilità può utilizzare diverse integrazioni. Puoi configurarli in modo indipendente e mapparli insieme.
 
-## Competenza
+## Competenze
 
 Un&#39;abilità è il livello di comportamento di un portinaio. Si tratta di un’unità riutilizzabile denominata che definisce un singolo lavoro che il portinaio può svolgere: ciò che gestisce, quando esegue il passaggio e come risponde. Un’abilità non contiene dati propri; prende in prestito la funzionalità dalle integrazioni ad essa associate.
 
@@ -81,8 +81,8 @@ Di seguito sono riportate le integrazioni mostrate nel pannello **Sfoglia integr
 | Contenuto Ricerca IA | Cerca il contenuto del brand tramite IA per la gestione dei contenuti | Origine di contenuto alternativa; in genere è necessaria solo una Ricerca IA per volta nella Knowledge Base Search o Content |
 | Collegamento entità | Risolve prodotti o menzioni dei brand nel messaggio di un utente in entità catalogo specifiche | Integrazione di supporto, utilizzata insieme a un’integrazione di ricerca anziché da sola |
 | MCP COMMERCE | Server MCP Commerce gestito da Adobe: ricerca di prodotti, dettagli, varianti e individuazione di facet/attributi, con supporto da Adobe Live Search | Non nella linea di base; aggiunta manuale per i casi d’uso di Commerce |
-| Prenotazione riunione | Consente ai visitatori di prenotare una riunione con un rappresentante commerciale | Richiede la configurazione con il calendario di un rappresentante commerciale, attraverso il prodotto Sales Qualifier correlato |
-| Chat live | Collega i visitatori con un rappresentante commerciale live | Richiede la configurazione con la disponibilità di un rappresentante commerciale, attraverso il prodotto Sales Qualifier correlato |
+| Prenotazione riunione | Consente ai visitatori di prenotare una riunione con un rappresentante commerciale | Richiede la configurazione con il calendario di un rappresentante commerciale, tramite il prodotto [!DNL Adobe Marketo Qualifier] correlato. Consulta [Prenotazione chat e riunione in tempo reale](sales-handoff/overview.md) |
+| Chat live | Collega i visitatori con un rappresentante commerciale live | Richiede la configurazione con la disponibilità di un rappresentante commerciale tramite il prodotto [!DNL Adobe Marketo Qualifier] correlato. Consulta [Prenotazione chat e riunione in tempo reale](sales-handoff/overview.md) |
 
 ![Esplora il pannello integrazioni che mostra quattro schede di integrazione: Ricerca IA del contenuto, Collegamento entità, Ricerca nella Knowledge Base e Commerce MCP](assets/skills-and-integrations-2.png){width="800" zoomable="yes"}
 
@@ -96,8 +96,7 @@ Di seguito sono riportate le abilità mostrate nel pannello **Sfoglia abilità**
 | Product Advisory | Scopri e cerca i prodotti: schede dei prodotti basate sul nome e domande sui prodotti in prosa | Ricerca nella knowledge base, collegamento entità |
 | Individuazione catalogo Adobe Commerce | Cerca, sfoglia, filtra e ottieni dettagli completi sui prodotti rispetto a un catalogo live | Strumenti MCP di Commerce: cerca prodotti Commerce, dettagli sul prodotto, varianti di prodotto, facet di prodotto e attributi ricercabili |
 | Confronto tra i prodotti Adobe Commerce | Confronto affiancato di due o più prodotti denominati in una tabella per Commerce | Strumenti MCP di Commerce: Ricerca prodotti Commerce, Dettagli prodotto |
-| Prenota riunione con il reparto vendite | Suggerisce e facilita la prenotazione di una riunione con un rappresentante commerciale | Integrazione prenotazione riunioni |
-| Chat in tempo reale con le vendite | Suggerisce e facilita la trasmissione di chat in diretta a un rappresentante commerciale | Integrazione chat in diretta |
+| Trasferimento alle vendite | Collega i visitatori con un consulente aziendale tramite gli strumenti disponibili: suggerisce e facilita una chat in diretta o una prenotazione di riunioni. Consulta [Attiva prenotazione chat e riunioni in tempo reale](sales-handoff/configure-in-composer.md) | Live Chat, prenotazione riunioni |
 
 Le due competenze di commerce sono funzionalità di sola lettura e dipendono dall’integrazione MCP di Commerce, che non fa parte della linea di base. In un concierge non-commerce, Site Advisory e Product Advisory vengono eseguiti contro la Knowledge Base Search creata automaticamente.
 

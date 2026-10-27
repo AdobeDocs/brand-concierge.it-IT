@@ -2,9 +2,9 @@
 user-guide-title: Adobe Brand Concierge
 breadcrumb-title: Adobe Brand Concierge
 user-guide-description: Esplora Adobe Brand Concierge
-source-git-commit: c80a55306cf078d21071332532717760960dbc47
+source-git-commit: bc1ad01947d4c756c13392c1db85ced46e9cca82
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '223'
 ht-degree: 13%
 ---
 
@@ -32,7 +32,6 @@ ht-degree: 13%
   + [Elenco di controllo pre-pubblicazione e piano di rollout](../go-live/your-pre-go-live-checklist-and-rollout-plan.md)
 + Documentazione {#documentation}
   + [Aiuto di Brand Concierge](../documentation/overview.md)
-  + [Riunioni](../documentation/meetings.md)
   + [Framework competenze e integrazioni](../documentation/skills-and-integrations.md)
   + [Guida per sviluppatori e personalizzazione](../documentation/developer-customization-guide.md)
   + [Conversazione vocale](../documentation/voice-conversation.md)
@@ -48,6 +47,14 @@ ht-degree: 13%
     + [Creazione e gestione di origini di conoscenza per Brand Concierge](../documentation/knowledge-sources/knowledge-sources.md)
   + Gestione dei portinai {#concierge-management}
     + [Gestire un portinaio](../documentation/concierge-management/concierge-management.md)
+  + Prenotazione di chat e riunioni in tempo reale {#sales-handoff}
+    + [Panoramica](../documentation/sales-handoff/overview.md)
+    + [Imposta rappresentanti](../documentation/sales-handoff/representative-setup.md)
+    + [Inoltra le conversazioni ai rappresentanti](../documentation/sales-handoff/routing-rules.md)
+    + [Attiva la prenotazione di chat e riunioni in diretta](../documentation/sales-handoff/configure-in-composer.md)
+    + [Casella in entrata chat](../documentation/sales-handoff/chat-inbox.md)
+    + [Dati Brand Concierge in Marketo Engage](../documentation/sales-handoff/marketo-activities.md)
+    + [Monitorare riunioni e chat in tempo reale](../documentation/sales-handoff/monitor.md)
   + Valutazione {#evaluation}
     + [Valuta un portinaio](../documentation/evaluation/evaluation.md)
   + Distribuzione {#deployment}
