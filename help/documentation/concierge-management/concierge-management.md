@@ -5,7 +5,7 @@ toc: true
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1702'
 ht-degree: 1%
@@ -77,8 +77,8 @@ Seleziona **Sfoglia integrazioni** per visualizzare il catalogo delle integrazio
 | Contenuto Ricerca IA | Cerca nel contenuto di AEM Sites | Rilevante per i clienti di AEM Sites as a Cloud Service |
 | Collegamento entità | Risolve prodotti o menzioni dei brand nel messaggio di un visitatore in base a specifiche entità di catalogo | Integrazione di supporto, in genere utilizzata insieme a un’integrazione di ricerca anziché da sola |
 | MCP COMMERCE | Si connette a un catalogo Adobe Commerce live per la ricerca di prodotti, i dettagli dei prodotti e i confronti | Non abilitato per impostazione predefinita; richiede codici o chiavi dal team commerciale o IT |
-| Prenotazione riunione | Consente ai visitatori di prenotare una riunione con un rappresentante commerciale | Richiede l&#39;impostazione con il calendario di un rappresentante commerciale. Consulta [Prenotazione chat e riunione in tempo reale](../sales-handoff/overview.md) |
-| Chat live | Collega i visitatori con un rappresentante commerciale live | Richiede l&#39;installazione con la disponibilità di un rappresentante commerciale. Consulta [Prenotazione chat e riunione in tempo reale](../sales-handoff/overview.md) |
+| Prenotazione riunione | Consente ai visitatori di prenotare una riunione con un rappresentante commerciale | Richiede l&#39;impostazione con il calendario di un rappresentante commerciale. Consulta [Prenotazione chat e riunione in tempo reale](../sales-handoff/overview.md). |
+| Chat live | Collega i visitatori con un rappresentante commerciale live | Richiede l&#39;installazione con la disponibilità di un rappresentante commerciale. Consulta [Prenotazione chat e riunione in tempo reale](../sales-handoff/overview.md). |
 
 ### Attivare e configurare un’integrazione
 

@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '764'
+source-wordcount: '771'
 ht-degree: 0%
 ---
 # Inoltra le conversazioni ai rappresentanti {#routing}
@@ -33,13 +33,13 @@ Il routing risponde a una domanda: quando il visitatore richiede una persona, *q
 | **[!UICONTROL Agente diretto]** | Nome di un rappresentante | No |
 | **[!UICONTROL Routing personalizzato]** | I rappresentanti assegnati alla regola di indirizzamento con priorità più alta per la quale il visitatore si qualifica | Sì |
 
-Round robin è disponibile per impostazione predefinita e non richiede alcuna configurazione. È possibile impostare il tipo di ciclo sull&#39;integrazione stessa. Consulta [Attiva prenotazione chat e riunioni in tempo reale](configure-in-composer.md).
+Round robin è disponibile per impostazione predefinita e non richiede alcuna configurazione. È possibile impostare il tipo di ciclo sull&#39;integrazione stessa. Consulta [Attivare la prenotazione di chat e riunioni in tempo reale](configure-in-composer.md).
 
 ### Round robin {#round-robin}
 
 Round robin si comporta in modo diverso per le riunioni che per le chat, perché i due hanno obiettivi diversi.
 
-**Per la prenotazione di riunioni**, round robin distribuisce le riunioni in modo uniforme. Il primo rappresentante idoneo che ha connesso un calendario viene offerto per primo. Una volta prenotato un incontro con loro, vengono estratti dalla piscina e viene offerto il rappresentante successivo. Con cinque rappresentanti, i primi cinque incontri si svolgono con cinque persone diverse. Dopo che tutti ne hanno ricevuto uno, il pool si ripristina e il ciclo riparte.
+Per la prenotazione delle riunioni, round robin distribuisce le riunioni in modo uniforme. Il primo rappresentante idoneo che ha connesso un calendario viene offerto per primo. Una volta prenotato un incontro con loro, vengono estratti dalla piscina e viene offerto il rappresentante successivo. Con cinque rappresentanti, i primi cinque incontri si svolgono con cinque persone diverse. Dopo che tutti ne hanno ricevuto uno, il pool si ripristina e il ciclo riparte.
 
 Il pool viene inoltre reimpostato ogni 24 ore, in modo che le riunioni di ogni giorno vengano distribuite in modo uniforme.
 
@@ -47,7 +47,7 @@ Il pool viene inoltre reimpostato ogni 24 ore, in modo che le riunioni di ogni g
 >
 >Il ripristino round robin di 24 ore viene eseguito su UTC, non sul fuso orario locale del rappresentante.
 
-**Per la chat in diretta**, non esiste una rotazione sequenziale. Ogni rappresentante idoneo riceve contemporaneamente la notifica della chat in arrivo e il primo ad accettare prende la conversazione.
+Per la chat in diretta, non esiste una rotazione sequenziale. Ogni rappresentante idoneo riceve contemporaneamente la notifica della chat in arrivo e il primo ad accettare prende la conversazione.
 
 ### Agente diretto {#direct-agent}
 
@@ -57,9 +57,9 @@ Ogni riunione o chat di questo concierge va al singolo rappresentante selezionat
 
 Il routing personalizzato valuta le regole create in [!DNL Adobe Marketo Qualifier] in base agli attributi del lead [!DNL Marketo] del visitatore e dell&#39;azienda. Utilizzalo quando il rappresentante giusto dipende da qualcosa che sai sul visitatore, ad esempio:
 
-* **Geografia** — i visitatori di un gruppo di paesi passano al team regionale.
-* **Interesse per il prodotto**: i visitatori interessati a un prodotto specifico si rivolgono agli specialisti del prodotto.
-* **Business unit, dimensione società o settore**: qualsiasi combinazione di attributi lead e società.
+* Geografia: i visitatori di diversi paesi si rivolgono al team regionale.
+* Interesse del prodotto: i visitatori interessati a un prodotto specifico vanno dagli specialisti di quel prodotto.
+* Business unit, dimensione dell&#39;azienda o settore: qualsiasi combinazione di lead e attributi aziendali.
 
 >[!IMPORTANT]
 >
@@ -103,8 +103,8 @@ In questo caso, viene applicata solo la regola di corrispondenza con priorità p
 >
 >Un numero più basso indica una priorità più alta. Una regola con priorità 1 prevale su una regola con priorità 2. La persona che crea una regola imposta la propria priorità.
 
-All&#39;interno della regola vincente, i rappresentanti ad essa assegnati sono il pool idoneo e il comportamento round robin e all-agent descritto sopra si applica a quel pool.
+All’interno della regola vincente, i rappresentanti a essa assegnati sono il pool idoneo e il comportamento round robin per le riunioni e il comportamento notification-Everyone per le chat, entrambi descritti in precedenza, si applicano a tale pool.
 
 ## Passaggio successivo {#next}
 
-Con la configurazione e l’instradamento decisi dai rappresentanti, aggiungi le funzionalità a un portinaio. Consulta [Attiva prenotazione chat e riunioni in tempo reale](configure-in-composer.md).
+Con la configurazione e l’instradamento decisi dai rappresentanti, aggiungi le funzionalità a un portinaio. Consulta [Attivare la prenotazione di chat e riunioni in tempo reale](configure-in-composer.md).

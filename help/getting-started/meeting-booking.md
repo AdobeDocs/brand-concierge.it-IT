@@ -27,14 +27,14 @@ topic_v2:
     internal-label: Customer experience
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
     internal-label: Personalization
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 49%
+source-wordcount: '124'
+ht-degree: 16%
 ---
 # Prenotare una riunione
 
-Scopri la funzionalità di prenotazione riunioni disponibile in Adobe Brand Concierge. In questo video tutorial vengono trattati i seguenti argomenti: l’esperienza lato cliente, la configurazione amministrativa per collegare un calendario e una panoramica di alcuni report e dashboard.
+Scopri la funzionalità di prenotazione delle riunioni in Adobe Brand Concierge. In questo tutorial video, gli argomenti trattati sono l’aspetto che l’esperienza del cliente può avere, la configurazione amministratore per la connessione di un calendario e una panoramica di alcune dashboard e rapporti.
 
 ## A chi serve questo video?
 
@@ -48,6 +48,6 @@ Scopri la funzionalità di prenotazione riunioni disponibile in Adobe Brand Conc
 * Scopri come avviene un trasferimento a un agente live in modo rapido e semplice
 * Scopri come questi strumenti vengono gestiti e configurati
 
->[!VIDEO](https://video.tv.adobe.com/v/3478542?captions=ita&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3478534?learn=on&enablevpops)
 
 Per ulteriori informazioni, consulta [Prenotazione chat e riunione in tempo reale](../documentation/sales-handoff/overview.md).

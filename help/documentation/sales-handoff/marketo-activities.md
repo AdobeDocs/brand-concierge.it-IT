@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '788'
+source-wordcount: '785'
 ht-degree: 4%
 ---
 # Dati Brand Concierge in Marketo Engage {#marketo-activities}
@@ -61,13 +61,13 @@ Registrato quando un visitatore interagisce con il portinaio.
 
 >[!NOTE]
 >
->Alcuni attributi di questo tipo di attività, inclusi gli argomenti discussi, il riepilogo e la lingua, non sono ancora stati compilati. Sono pianificate per una versione futura.
+>Alcuni attributi su questo tipo di attività, compresi gli argomenti discussi, il riepilogo e la lingua, sono pianificati per una versione futura.
 
 ### Pianifica riunione nel Concierge {#schedule-meeting}
 
-Ha registrato **due volte** per una singola prenotazione, che è ciò che ti consente di separare l&#39;intento dal risultato.
+Effettuato due volte per una singola prenotazione, il che consente di separare l’intento dal risultato.
 
-**Primo, all&#39;avvio.** Il visitatore ha selezionato l’opzione per pianificare una riunione e viene visualizzato il modulo di prenotazione. Stato riunione: `Started`.
+Primo, all’avvio: il visitatore ha selezionato l’opzione per pianificare una riunione e il modulo di prenotazione è apparso. Stato riunione: `Started`.
 
 | Attributo | Descrizione |
 | --- | --- |
@@ -76,7 +76,7 @@ Ha registrato **due volte** per una singola prenotazione, che è ciò che ti con
 | ID portinaio | Il portinaio con cui il visitatore si è fidanzato |
 | ID persona | Il record persona [!DNL Marketo] |
 
-**Alla prenotazione.** Il visitatore ha confermato uno slot. Stato riunione: `Scheduled`.
+Poi, al momento della prenotazione: il visitatore ha confermato uno slot. Stato riunione: `Scheduled`.
 
 | Attributo | Descrizione |
 | --- | --- |
@@ -85,14 +85,14 @@ Ha registrato **due volte** per una singola prenotazione, che è ciò che ti con
 | E-mail rappresentante | Indirizzo e-mail del rappresentante |
 | Pianificato per | Data e ora della riunione |
 | Durata riunione | Durata della riunione prenotata |
-| Tipo di indirizzamento | Ciclo che ha risolto il calendario del rappresentante |
+| Tipo di indirizzamento | Tipo di ciclo di produzione che ha selezionato questo rappresentante |
 | URL della pagina | La pagina in cui il visitatore ha prenotato |
 | ID portinaio | Il portinaio con cui il visitatore si è fidanzato |
 | ID persona | Il record persona [!DNL Marketo] |
 
 >[!TIP]
 >
->Creare un elenco avanzato in `Meeting Status` è `Started` ma non `Scheduled` per trovare tutti coloro che hanno iniziato a prenotare una riunione e l&#39;hanno abbandonata. Si tratta di un pubblico già pronto per l’apprendimento o il retargeting.
+>Creare un elenco avanzato di persone il cui `Meeting Status` è `Started` ma non `Scheduled` per trovare tutti coloro che hanno iniziato a prenotare una riunione e l&#39;hanno abbandonata. Si tratta di un pubblico già pronto per l’apprendimento o il retargeting.
 
 ### Coinvolgi la chat in diretta in Concierge {#engage-with-live-chat}
 
@@ -101,7 +101,7 @@ Registrato al termine di una chat in diretta.
 | Attributo | Descrizione |
 | --- | --- |
 | Stato conversazione | `Ended` se la chat è stata chiusa deliberatamente, `Dropped` se il visitatore ha lasciato il sito e la chat è scaduta |
-| Agenti notificati | Gli indirizzi e-mail di ogni agente a cui è stata notificata questa chat |
+| Agenti notificati | Gli indirizzi e-mail di ogni rappresentante a cui è stata notificata questa chat |
 | Punteggio conversazione | Il punteggio da 0 a 3 assegnato dal rappresentante alla conversazione. Vedi [Punteggio della conversazione](chat-inbox.md#conversation-score) |
 | URL della pagina | Pagina in cui è stata avviata la chat in tempo reale |
 | ID portinaio | Il portinaio con cui il visitatore si è fidanzato |
@@ -121,8 +121,8 @@ In **[!UICONTROL Elenco avanzato]** di una campagna avanzata, cerca `concierge` 
 | Categoria | Elementi disponibili |
 | --- | --- |
 | **[!UICONTROL Triggers]** | Coinvolge il Concierge, Coinvolge con chat in diretta nel Concierge, Pianifica riunioni nel Concierge |
-| **[!UICONTROL Filtri]** > Cronologia attività | Coinvolto con il Concierge, Coinvolto con chat in diretta nel Concierge, Riunione programmata nel Concierge |
-| **[!UICONTROL Filtri]** > Filtri di inattività | Non coinvolto con il portinaio, non coinvolto con chat in diretta nel portinaio, non pianificato nella riunione nel portinaio |
+| **[!UICONTROL Filtri]** > **[!UICONTROL Cronologia attività]** | Coinvolto con il Concierge, Coinvolto con chat in diretta nel Concierge, Riunione programmata nel Concierge |
+| **[!UICONTROL Filtri]** > **[!UICONTROL Filtri di inattività]** | Non coinvolto con il portinaio, non coinvolto con chat in diretta nel portinaio, non pianificato nella riunione nel portinaio |
 
 Trascina un trigger o un filtro nell&#39;area di lavoro, quindi seleziona **[!UICONTROL Aggiungi vincolo]** per restringerlo.
 

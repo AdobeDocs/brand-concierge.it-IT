@@ -5,7 +5,7 @@ feature: Release Information
 product_v2:
   - id: b6ee73fe-bdc6-47d9-99a2-80194514dd40
     internal-label: Brand Concierge
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '1327'
 ht-degree: 0%
@@ -28,7 +28,7 @@ Tutte le funzioni sono generalmente disponibili, se non diversamente indicato.
 
 ## Settembre 2026 {#september-2026}
 
-* **Prenotazione di chat e riunioni in tempo reale in Composer 2.0**: la prenotazione di chat e riunioni in tempo reale è disponibile come integrazione incorporata nel pannello Integrazioni di navigazione in Composer e il nuovo handoff per le competenze di vendita determina quando offrirle in base all&#39;intento del visitatore. Consulta [Attiva prenotazione chat e riunioni in tempo reale](../documentation/sales-handoff/configure-in-composer.md).
+* **Live Chat e prenotazione riunioni in Composer 2.0**: Live Chat e prenotazione riunioni sono disponibili come integrazioni incorporate nel pannello di integrazione Sfoglia di Composer e la nuova abilità di trasferimento alle vendite determina quando offrirle in base all&#39;intento del visitatore. Consulta [Attivare la prenotazione di chat e riunioni in tempo reale](../documentation/sales-handoff/configure-in-composer.md).
 
 * **Regole di indirizzamento personalizzate**: crea regole di indirizzamento sugli attributi del lead e della società di Marketo per inviare i visitatori al rappresentante giusto, utilizzando più gruppi di condizioni combinati con AND e OR, regole con priorità e più rappresentanti assegnati. Il routing personalizzato si applica sia alla prenotazione delle riunioni che alla chat in diretta. Consulta [Instradare le conversazioni ai rappresentanti](../documentation/sales-handoff/routing-rules.md).
 

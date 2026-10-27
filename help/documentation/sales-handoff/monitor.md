@@ -14,14 +14,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '195'
+source-wordcount: '225'
 ht-degree: 0%
 ---
 # Monitorare riunioni e chat in tempo reale {#monitor}
 
-[!DNL Adobe Marketo Qualifier] conserva il record operativo di ogni handoff: le riunioni prenotate, le chat che si sono tenute e le prestazioni del team rispetto a tali riunioni.
+[!DNL Adobe Marketo Qualifier] conserva il record operativo di ogni handoff: le riunioni prenotate, le chat che si sono tenute e le prestazioni delle prenotazioni delle riunioni.
 
 ## Rivedi riunioni prenotate {#bookings}
 
@@ -39,9 +39,9 @@ In **[!UICONTROL Attività]**, seleziona **[!UICONTROL Casella in entrata chat]*
 
 ## Analizzare le prestazioni della riunione {#performance}
 
-In **[!UICONTROL Analytics]**, seleziona **[!UICONTROL Prestazioni riunione]** per esaminare diverse categorie di analisi, tra cui il numero di visitatori che hanno richiesto riunioni e il numero di visitatori non utilizzati. Si può anche osservare la tendenza delle riunioni nel tempo e quali rappresentanti le hanno prese.
+In **[!UICONTROL Analytics]**, seleziona **[!UICONTROL Prestazioni riunione]** per vedere quante riunioni sono state richieste, quante sono state prenotate e quante sono state saltate. È inoltre possibile visualizzare gli andamenti giornalieri, settimanali e mensili, la percentuale di riunioni richieste prenotate e i rappresentanti che hanno partecipato più riunioni.
 
-![Dashboard prestazioni riunione](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
+![Dashboard delle prestazioni delle riunioni che mostra il totale delle riunioni richieste, prenotate e saltate, seguito dai grafici giornalieri delle riunioni saltate e dalla percentuale delle richieste prenotate](../assets/meetings-performance-1.png){width="800" zoomable="yes"}
 
 ## Analizzare il coinvolgimento dei concierge in Marketo Engage {#marketo}
 

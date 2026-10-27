@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4a54cf90e8233e86cabf9329a78cb10f35a630f6
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '324'
+source-wordcount: '337'
 ht-degree: 0%
 ---
 # Abilita conversazioni vocali
@@ -66,3 +66,7 @@ La voce non limita la portineria all&#39;audio. Durante una conversazione vocale
 1. Nella scheda **Progettazione**, selezionare **Voce**.
 
 1. Nel pannello _Voce_, disattivare le opzioni che si desidera disattivare, quindi selezionare **Salva**.
+
+## Demo video
+
+Per visualizzare le conversazioni vocali in azione, controlla la [demo video](/help/getting-started/voice-conversation.md).
