@@ -14,9 +14,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '784'
+source-wordcount: '786'
 ht-degree: 1%
 ---
 # Impostare i rappresentanti in Adobe Marketo Qualifier {#representative-setup}
@@ -49,7 +49,7 @@ La connessione al calendario è ciò che rende la disponibilità reale visibile 
 
    ![Selezione account Microsoft visualizzato durante la connessione al calendario](../assets/meetings-connect-3.png){width="600" zoomable="yes"}
 
-1. Rivedi l’e-mail di conferma inviata a un visitatore quando prenota una riunione con te.
+1. Rivedi l’e-mail di conferma che un visitatore riceve quando prenota una riunione con te.
 
    Vengono impostati un oggetto e un corpo predefiniti. Modificare uno dei due e scegliere se includere un collegamento alla riunione [!DNL Microsoft Teams] nell&#39;invito.
 
@@ -112,7 +112,7 @@ La disponibilità della chat in tempo reale è separata dalla disponibilità del
 
 ## Verifica chi è configurato {#manage-members}
 
-**Solo amministratori.** In **[!UICONTROL Amministrazione]**, selezionare **[!UICONTROL Gestisci membri]** per visualizzare lo stato di ogni rappresentante in un&#39;unica posizione: chi ha connesso un calendario, chi ha impostato la disponibilità della chat in tempo reale e chi ha disconnesso un calendario.
+Questa sezione è riservata agli amministratori. In **[!UICONTROL Amministrazione]**, selezionare **[!UICONTROL Gestisci membri]** per visualizzare lo stato di ogni rappresentante in un&#39;unica posizione: chi ha connesso un calendario, chi ha impostato la disponibilità della chat in tempo reale e chi ha disconnesso un calendario.
 
 Utilizza questa opzione prima di attivare le integrazioni in Compositore. Un rappresentante che viene visualizzato qui senza un calendario connesso non è idoneo per la prenotazione di riunioni e uno senza disponibilità di chat in diretta non è idoneo per la chat in diretta.
 

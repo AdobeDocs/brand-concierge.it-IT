@@ -15,17 +15,17 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '765'
+source-wordcount: '768'
 ht-degree: 0%
 ---
 # Panoramica sulla prenotazione di chat e riunioni live {#overview}
 
 Un portinaio risponde alla maggior parte delle domande da solo. Alcune conversazioni richiedono una persona: una negoziazione dei prezzi, un questionario di approvvigionamento, una richiesta demo. La chat in tempo reale e la prenotazione di riunioni sono i due modi in cui Brand Concierge consegna la conversazione a un utente senza perdere il contesto già fornito dal visitatore.
 
-* **Chat in tempo reale** collega immediatamente il visitatore a un rappresentante disponibile nella stessa finestra di chat.
-* **Prenotazione riunione** offre al visitatore slot aperti reali dal calendario di un rappresentante e prenota la riunione.
+* La chat in tempo reale collega il visitatore a un rappresentante disponibile immediatamente, nella stessa finestra di chat.
+* La prenotazione di un meeting offre al visitatore slot aperti reali dal calendario di un rappresentante e prenota la riunione.
 
 Entrambi vengono offerti dalla stessa abilità, **[!UICONTROL Trasferimento alle vendite]**, ed entrambi passano attraverso [!DNL Adobe Marketo Qualifier] (in precedenza [!DNL Sales Qualifier]), dove i tuoi rappresentanti connettono i loro calendari, impostano la loro disponibilità e prendono le chat.
 
@@ -40,7 +40,7 @@ Quattro elementi devono essere allineati prima che un visitatore possa raggiunge
 | Integrazioni | **[!UICONTROL Prenotazione riunione]** e **[!UICONTROL Chat in tempo reale]** offrono al portinaio la possibilità di verificare la disponibilità, avviare una chat e prenotare uno slot | Compositore > **[!UICONTROL Sfoglia integrazioni]** |
 | Competenza | **[!UICONTROL Invio alle vendite]** decide *quando* offrire un handoff, in base all&#39;intento del visitatore | Compositore > **[!UICONTROL Esplora abilità]** |
 
-In fase di runtime: il visitatore dice qualcosa che corrisponde a una delle **[!UICONTROL Condizioni di utilizzo dell&#39;abilità]**, l&#39;abilità viene attivata, chiama qualsiasi integrazione sia associata ad essa, l&#39;indirizzamento risolve un rappresentante e al visitatore viene offerta una chat, una riunione o entrambe.
+In fase di runtime, il visitatore indica un elemento che corrisponde a una delle condizioni **[!UICONTROL Use when]** dell&#39;abilità. L’abilità attiva e richiama qualsiasi integrazione ad essa associata. Il routing risolve quindi un rappresentante e al visitatore viene offerta una chat, una riunione o entrambe.
 
 >[!NOTE]
 >
@@ -70,7 +70,7 @@ Se il visitatore sceglie di prenotare una riunione, il portinaio visualizza un c
 
 ![Prenotare una scheda riunione nella conversazione mostrando un calendario mensile e un elenco di intervalli di tempo disponibili](../assets/sales-handoff-visitor-3.png){width="800" zoomable="yes"}
 
-Dopo che il visitatore ha confermato uno slot, viene inviata l&#39;e-mail di conferma del rappresentante, includendo facoltativamente un collegamento [!DNL Microsoft Teams]. Il contesto della conversazione va al rappresentante con l’invito.
+Dopo che il visitatore conferma uno slot, riceve l&#39;e-mail di conferma del rappresentante, che facoltativamente include un collegamento [!DNL Microsoft Teams]. Il contesto della conversazione va al rappresentante con l’invito.
 
 ## Cosa serve prima di iniziare {#prerequisites}
 
@@ -89,7 +89,7 @@ Elaborale in ordine.
 
 1. [Imposta i rappresentanti in Adobe Marketo Qualifier](representative-setup.md): connetti un calendario, definisci l&#39;e-mail di conferma e imposta la disponibilità del calendario e della chat in tempo reale.
 1. [Inoltra le conversazioni ai rappresentanti](routing-rules.md) — scegli round robin, un direct agent o regole personalizzate basate sugli attributi [!DNL Marketo].
-1. [Attiva la prenotazione di chat e riunioni in diretta](configure-in-composer.md). Collega le due integrazioni e attiva l&#39;abilità **[!UICONTROL Trasferimento alle vendite]**.
+1. [Attiva la prenotazione di chat e riunioni in tempo reale](configure-in-composer.md). Collega le due integrazioni e attiva l&#39;abilità **[!UICONTROL Trasferimento alle vendite]**.
 1. [Posta in arrivo chat](chat-inbox.md): ciò che fanno i rappresentanti una volta che arriva una chat, incluso il punteggio della conversazione.
 1. [Dati Brand Concierge in Marketo Engage](marketo-activities.md): i campi lead e i tipi di attività riscritti in [!DNL Marketo] e come utilizzarli in Smart Campaigns.
 1. [Monitora riunioni e chat in diretta](monitor.md): l&#39;elenco prenotazioni e il dashboard delle prestazioni.

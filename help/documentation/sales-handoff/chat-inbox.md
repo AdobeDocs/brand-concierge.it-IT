@@ -12,16 +12,16 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '636'
+source-wordcount: '638'
 ht-degree: 1%
 ---
 # Casella in entrata chat {#chat-inbox}
 
 Quando un visitatore chiede di parlare con qualcuno, la chat arriva nella **[!UICONTROL Posta in arrivo chat]** in [!DNL Adobe Marketo Qualifier]. Questa pagina è la vista del rappresentante di una chat in diretta: cosa vedi quando arriva, quale contesto ottieni e cosa devi fare prima di poterla chiudere.
 
-Per aprirla, nel pannello a sinistra in **[!UICONTROL Attività]**, seleziona **[!UICONTROL Casella in entrata Chat]**.
+Per aprire la casella in entrata della chat, nel pannello a sinistra in **[!UICONTROL Attività]**, seleziona **[!UICONTROL Casella in entrata Chat]**.
 
 ## Ricevi una chat {#receive}
 

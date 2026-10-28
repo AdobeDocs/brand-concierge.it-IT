@@ -14,12 +14,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 4751ce408fb2aa6d1affae4dd7a5d81ca43ffc8a
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
-source-wordcount: '814'
+source-wordcount: '828'
 ht-degree: 0%
 ---
-# Attiva la prenotazione di chat e riunioni in diretta {#configure-in-composer}
+# Attiva la prenotazione di chat e riunioni in tempo reale {#configure-in-composer}
 
 Due cose devono essere a posto nel Compositore. Le integrazioni **[!UICONTROL Meeting Booking]** e **[!UICONTROL Live Chat]** offrono al portinaio la *possibilità* di verificare la disponibilità, avviare una chat e prenotare uno slot. L&#39;abilità **[!UICONTROL Trasferimento alle vendite]** indica *quando* utilizzarla.
 
@@ -27,7 +27,7 @@ Due cose devono essere a posto nel Compositore. Le integrazioni **[!UICONTROL Me
 >
 >Completa [Imposta prima i rappresentanti in Adobe Marketo Qualifier](representative-setup.md). Le integrazioni verificano la disponibilità di calendari connessi e chat in tempo reale e non verranno attivate senza di essi.
 
-## Connettere l’integrazione di Meeting Booking {#connect-meeting-booking}
+## Collegare l’integrazione della prenotazione della riunione {#connect-meeting-booking}
 
 1. In Compositore, apri il tuo portinaio e seleziona **[!UICONTROL Integrazioni]** > **[!UICONTROL Sfoglia integrazioni]**.
 
@@ -54,7 +54,7 @@ Due cose devono essere a posto nel Compositore. Le integrazioni **[!UICONTROL Me
 
 1. Seleziona **[!UICONTROL Connetti]**.
 
-## Collegare l’integrazione di Live Chat {#connect-live-chat}
+## Connettere l’integrazione della chat live {#connect-live-chat}
 
 1. In **[!UICONTROL Sfoglia integrazioni]**, selezionare **[!UICONTROL Live Chat]**, quindi selezionare **[!UICONTROL Configura]**.
 
@@ -100,7 +100,7 @@ Le integrazioni sono ora connesse, ma il portinaio deve ancora sapere quando off
    | Confronto con la concorrenza | Confronto delle soluzioni con alternative concorrenti, differenziazione o migrazione da una piattaforma concorrente |
    | Accesso alla versione di prova e POC | Impostazioni di prova, accesso ai parchi giochi, bozze di concetto o piloti |
    | Modifiche al contratto e alle licenze | Rinnovi del contratto, estensioni del termine o aggiornamenti del piano |
-   | Procurement RFP o RFI | Invii, risposte, questionari per i fornitori, moduli di approvvigionamento o documentazione sulla conformità |
+   | Procurement RFP o RFI | Invii e risposte RFP o RFI, questionari fornitore, moduli di approvvigionamento o documentazione di conformità |
    | Demo | Dimostrazioni di prodotto o procedure dettagliate |
 
    Seleziona **[!UICONTROL Aggiungi condizione]** per aggiungere un intento personale o eliminare le condizioni non applicabili alla tua azienda.
@@ -123,6 +123,6 @@ Apri l&#39;anteprima e chiedi al portinaio qualcosa che corrisponda a una delle 
 
 Quando il comportamento è corretto, pubblica il concierge per rendere il passaggio live sul tuo sito.
 
-## Passaggio successivo {#next}
+## Passaggi successivi {#next-steps}
 
-I tuoi rappresentanti ora possono ricevere le chat. Vedi [Posta in arrivo chat](chat-inbox.md).
+I rappresentanti possono ora ricevere le chat e le prenotazioni di riunioni. Per informazioni sulla gestione di una chat da parte dei rappresentanti, vedere [Posta in arrivo chat](chat-inbox.md).

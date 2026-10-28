@@ -17,7 +17,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: ec567c798c52edaba7e2cfb41a837d8058bcceb7
+source-git-commit: 91cbec8d6f4e4800e3bdc8c8f60bfe9ed168a963
 workflow-type: tm+mt
 source-wordcount: '156'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Scopri come Brand Concierge chiude il ciclo tra il sito web e Marketo Engage. Sc
 ## Contenuto video
 
 * Flusso delle conversazioni dei visitatori da Brand Concierge a Marketo: dall&#39;acquisizione e prenotazione di lead in-chat alla creazione automatica di lead
-* Il tipo di attività &quot;Riunione pianificata in portineria&quot; nativo registrato nel registro attività del lead, con contesto completo: durata della riunione, fase di vendita, tipo di ciclo e stato della prenotazione
+* Il tipo di attività &quot;Pianifica riunione in conferenza&quot; nativo registrato nel registro attività del lead, con contesto completo: durata della riunione, fase di vendita, tipo di ciclo e stato della prenotazione
 * Come utilizzare i tipi di attività Brand Concierge nelle campagne Marketo Smart, come attivatori, filtri o dati di campagne batch
 
 >[!VIDEO](https://video.tv.adobe.com/v/3492256?captions=ita&learn=on)
