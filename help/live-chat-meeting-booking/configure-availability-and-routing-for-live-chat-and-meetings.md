@@ -29,6 +29,6 @@ Scopri come Adobe Brand Concierge utilizza le regole di disponibilità e indiriz
 * Imposta ore chat in diretta separate e verifica la preparazione dei rappresentanti in Gestisci membri
 * Crea regole di instradamento con attributi, condizioni, assegnazioni rappresentative e priorità dei visitatori
 
->[!VIDEO](https://video.tv.adobe.com/v/3506785?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506791?captions=ita&learn=on)
 
 Per la documentazione, consulta [Configurare i rappresentanti](../documentation/sales-handoff/representative-setup.md) e [Instradare le conversazioni ai rappresentanti](../documentation/sales-handoff/routing-rules.md).
