@@ -5,12 +5,12 @@ topic: Administration
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 201
+duration: 206
 last-substantial-update: 2026-11-03
 jira: KT-23034
-source-git-commit: 636dfd59c05251b6e07523877d9f7ab2df302f04
+source-git-commit: 1d527d5f400254b317871c0cc2d0315846e2da63
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '168'
 ht-degree: 0%
 ---
 # Impostazione della disponibilità e dell&#39;instradamento per chat e riunioni in tempo reale
@@ -32,3 +32,9 @@ Scopri come Adobe Brand Concierge utilizza le regole di disponibilità e indiriz
 >[!VIDEO](https://video.tv.adobe.com/v/3506791?captions=ita&learn=on)
 
 Per la documentazione, consulta [Configurare i rappresentanti](../documentation/sales-handoff/representative-setup.md) e [Instradare le conversazioni ai rappresentanti](../documentation/sales-handoff/routing-rules.md).
+
+## Tutorial correlati
+
+* [Prenotazione di chat e riunioni in tempo reale: esperienza end-to-end](live-chat-and-meeting-booking-end-to-end-experience.md)
+* [Configurare la prenotazione di chat e riunioni in tempo reale](configure-live-chat-and-meeting-booking.md)
+* [Utilizzare le attività di Brand Concierge in Marketo](use-brand-concierge-activities-in-marketo.md)

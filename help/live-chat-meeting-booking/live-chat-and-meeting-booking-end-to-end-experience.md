@@ -5,12 +5,12 @@ topic: Integrations
 role: User
 level: Beginner
 doc-type: Tutorial
-duration: 178
+duration: 184
 last-substantial-update: 2026-10-29
 jira: KT-23033
-source-git-commit: 5b597ed9a2f82bd2938ab3c9a9d1736364b43042
+source-git-commit: 1d527d5f400254b317871c0cc2d0315846e2da63
 workflow-type: tm+mt
-source-wordcount: '200'
+source-wordcount: '223'
 ht-degree: 0%
 ---
 # Prenotazione di chat e riunioni in tempo reale: esperienza end-to-end
@@ -33,3 +33,9 @@ Scopri in che modo Adobe Brand Concierge collega i visitatori del sito web ai ra
 >[!VIDEO](https://video.tv.adobe.com/v/3506004?captions=ita&learn=on)
 
 Per la documentazione, consulta [Prenotazione chat e riunione in tempo reale](../documentation/sales-handoff/overview.md).
+
+## Tutorial correlati
+
+* [Impostazione della disponibilità e dell&#39;instradamento per chat e riunioni in tempo reale](configure-availability-and-routing-for-live-chat-and-meetings.md)
+* [Configurare la prenotazione di chat e riunioni in tempo reale](configure-live-chat-and-meeting-booking.md)
+* [Utilizzare le attività di Brand Concierge in Marketo](use-brand-concierge-activities-in-marketo.md)
