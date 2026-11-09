@@ -32,7 +32,7 @@ Scopri in che modo Adobe Brand Concierge invia i dettagli della persona e le att
 * Aggiungi filtri e trigger di attività di Concierge a `Smart List` di una campagna avanzata
 * Limita i tipi di pubblico con vincoli di attività, come stato, date, tipo di indirizzamento, URL della pagina, rappresentante commerciale e punteggio di conversazione
 
->[!VIDEO](https://video.tv.adobe.com/v/3508041?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508047?captions=ita&learn=on)
 
 ## Tutorial correlati
 
