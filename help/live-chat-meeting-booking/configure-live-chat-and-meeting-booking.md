@@ -28,7 +28,7 @@ Scopri come configurare la chat in diretta e la prenotazione di riunioni in Adob
 * Aggiungi le integrazioni all’abilità Handoff to Sales e definisci gli intenti che le attivano
 * Rivedi le istruzioni generate automaticamente, perfeziona gli intenti che attivano ogni integrazione e verifica l’abilità nell’anteprima
 
->[!VIDEO](https://video.tv.adobe.com/v/3508052?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3508058?captions=ita&learn=on)
 
 Per la documentazione, consulta [Attivare la chat in diretta e la prenotazione di riunioni](../documentation/sales-handoff/configure-in-composer.md).
 
