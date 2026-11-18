@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 269
 last-substantial-update: 2026-10-05
 jira: KT-22190
-source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
+source-git-commit: b1085e3d143bbfbf221c0a8269746be7a153a4d0
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '303'
 ht-degree: 0%
 ---
 
@@ -48,4 +48,4 @@ Inizia con i colleghi interni e testa flussi completi end-to-end. Considera quin
 * [Configurazione tecnica e funzioni opzionali](technical-setup-and-optional-features.md)
 * [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/it/playlists/brand-concierge-go-live-checklist)
 
-Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).
+Per la documentazione, consulta l&#39;[elenco di controllo per l&#39;attivazione](../documentation/go-live-checklist/go-live-checklist.md) e la [guida di Brand Concierge](../documentation/overview.md).
