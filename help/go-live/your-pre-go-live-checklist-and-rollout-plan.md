@@ -46,6 +46,6 @@ Inizia con i colleghi interni e testa flussi completi end-to-end. Considera quin
 * [Preparazione del contenuto e del percorso di visitatori](content-and-journey.md)
 * [Misurazione della qualità e impostazione dei guardrail](measuring-quality-and-setting-guardrails.md)
 * [Configurazione tecnica e funzioni opzionali](technical-setup-and-optional-features.md)
-* [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
+* [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/it/playlists/brand-concierge-go-live-checklist)
 
 Per la documentazione, consulta l&#39;[elenco di controllo per l&#39;attivazione](../documentation/go-live-checklist/go-live-checklist.md) e la [guida di Brand Concierge](../documentation/overview.md).
