@@ -17,9 +17,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
+source-git-commit: b1085e3d143bbfbf221c0a8269746be7a153a4d0
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '190'
 ht-degree: 0%
 ---
 
@@ -39,7 +39,7 @@ Adobe Brand Concierge può rispondere solo alle domande e al contenuto fornito. 
 * Come preparare i contenuti prima di condividerli
 * Come scrivere una definizione di percorso di visitatori di una pagina
 
->[!VIDEO](https://video.tv.adobe.com/v/3496013/?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496007/?learn=on)
 
 ## Tutorial correlati
 
@@ -48,8 +48,8 @@ Adobe Brand Concierge può rispondere solo alle domande e al contenuto fornito. 
 * [Misurazione della qualità e impostazione dei guardrail](measuring-quality-and-setting-guardrails.md)
 * [Configurazione tecnica e funzioni opzionali](technical-setup-and-optional-features.md)
 * [Elenco di controllo e piano di rollout precedenti alla pubblicazione](your-pre-go-live-checklist-and-rollout-plan.md)
-* [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/it/playlists/brand-concierge-go-live-checklist)
+* [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
 ## Documentazione
 
-Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).
+Per la documentazione, consulta l&#39;[elenco di controllo per l&#39;attivazione](../documentation/go-live-checklist/go-live-checklist.md) e la [guida di Brand Concierge](../documentation/overview.md).

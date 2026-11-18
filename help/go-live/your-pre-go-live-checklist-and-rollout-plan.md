@@ -8,9 +8,9 @@ doc-type: Tutorial
 duration: 269
 last-substantial-update: 2026-10-05
 jira: KT-22190
-source-git-commit: b1cb207b8624703baa0247f2b08c3f522ab4d0db
+source-git-commit: b1085e3d143bbfbf221c0a8269746be7a153a4d0
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '303'
 ht-degree: 0%
 ---
 
@@ -35,7 +35,7 @@ Prima di lanciare Adobe Brand Concierge, verifica i contenuti, la configurazione
 * Ottieni l’approvazione delle parti interessate e conferma la preparazione tecnica con le risorse Adobe quando sono coinvolte.
 * Pianifica un rollout graduale, che avanza solo quando i risultati supportano la fase successiva.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504112/?captions=ita&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504106/?learn=on)
 
 Inizia con i colleghi interni e testa flussi completi end-to-end. Considera quindi un rollout iniziale ridotto, ad esempio il 5% delle pagine di destinazione, prima di espanderlo al 25%, 50% e infine al 100%. Queste sono fasi di esempio, non una pianificazione fissa. Continua a monitorare tramite la dashboard di analisi almeno una volta alla settimana dopo il rollout completo.
 
@@ -46,6 +46,6 @@ Inizia con i colleghi interni e testa flussi completi end-to-end. Considera quin
 * [Preparazione del contenuto e del percorso di visitatori](content-and-journey.md)
 * [Misurazione della qualità e impostazione dei guardrail](measuring-quality-and-setting-guardrails.md)
 * [Configurazione tecnica e funzioni opzionali](technical-setup-and-optional-features.md)
-* [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/it/playlists/brand-concierge-go-live-checklist)
+* [playlist elenco di controllo di Brand Concierge go-live](https://experienceleague.adobe.com/en/playlists/brand-concierge-go-live-checklist)
 
-Per la documentazione, consulta [Guida di Brand Concierge](../documentation/overview.md).
+Per la documentazione, consulta l&#39;[elenco di controllo per l&#39;attivazione](../documentation/go-live-checklist/go-live-checklist.md) e la [guida di Brand Concierge](../documentation/overview.md).
